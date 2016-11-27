@@ -1,0 +1,99 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "15", "precincts_reporting" : "15", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "13125", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "7503" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "5417" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "105" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "42" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "34" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "14" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "9" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "1" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "12363", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "7538" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "4787" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "38" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "12676", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "7426" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "4474" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "765" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "11" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 22", "contest_number" : "126", "total_votes" : "209", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Stephen R. ARCHAMBAULT", "party_code" : "DEM", "votes" : "140" }, 
+    { "name" : "Richard A. POIRIER", "party_code" : "REP", "votes" : "69" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "0" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 25", "contest_number" : "129", "total_votes" : "9753", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Frank LOMBARDO, III", "party_code" : "DEM", "votes" : "9551" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "202" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 13", "contest_number" : "155", "total_votes" : "711", "votes_allowed" : "1", "candidates" : [
+    { "name" : "John M. CARNEVALE", "party_code" : "DEM", "votes" : "699" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "12" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 42", "contest_number" : "184", "total_votes" : "3665", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Stephen R. UCCI", "party_code" : "DEM", "votes" : "3584" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "81" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 43", "contest_number" : "185", "total_votes" : "5997", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Deborah A. FELLELA", "party_code" : "DEM", "votes" : "3887" }, 
+    { "name" : "Karin N. GORMAN", "party_code" : "IND", "votes" : "2097" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "13" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 44", "contest_number" : "186", "total_votes" : "1034", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Gregory J. COSTANTINO", "party_code" : "DEM", "votes" : "656" }, 
+    { "name" : "James W. ARCHER", "party_code" : "REP", "votes" : "375" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "MAYOR TOWN OF JOHNSTON", "contest_number" : "309", "total_votes" : "12629", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joseph M. POLISENA", "party_code" : "DEM", "votes" : "9883" }, 
+    { "name" : "Peter A. FILIPPI, III", "party_code" : "REP", "votes" : "2663" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "83" } ] },
+  { "name" : "TOWN COUNCIL JOHNSTON DISTRICT 5", "contest_number" : "310", "total_votes" : "2507", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Stephanie P. MANZI", "party_code" : "DEM", "votes" : "2445" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "62" } ] },
+  { "name" : "TOWN COUNCIL JOHNSTON DISTRICT 1", "contest_number" : "311", "total_votes" : "1745", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Eileen FUOCO", "party_code" : "DEM", "votes" : "1666" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "79" } ] },
+  { "name" : "TOWN COUNCIL JOHNSTON DISTRICT 2", "contest_number" : "312", "total_votes" : "2313", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Anthony A. VERARDO", "party_code" : "DEM", "votes" : "1360" }, 
+    { "name" : "Melvin D. STEPPO, JR.", "party_code" : "IND", "votes" : "944" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "9" } ] },
+  { "name" : "TOWN COUNCIL JOHNSTON DISTRICT 3", "contest_number" : "313", "total_votes" : "1956", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David J. SANTILLI", "party_code" : "DEM", "votes" : "1913" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "43" } ] },
+  { "name" : "TOWN COUNCIL JOHNSTON DISTRICT 4", "contest_number" : "314", "total_votes" : "2544", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Robert V. RUSSO", "party_code" : "DEM", "votes" : "1866" }, 
+    { "name" : "Robert J. MATTEO", "party_code" : "REP", "votes" : "668" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "10" } ] },
+  { "name" : "SCHOOL COMMITTEE JOHNSTON DISTRICT 1", "contest_number" : "315", "total_votes" : "1809", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Robert A. LaFAZIA", "party_code" : "DEM", "votes" : "1777" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "32" } ] },
+  { "name" : "SCHOOL COMMITTEE JOHNSTON DISTRICT 4", "contest_number" : "316", "total_votes" : "2038", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joseph W. ROTELLA", "party_code" : "DEM", "votes" : "2003" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "35" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "12357", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "9763" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "2594" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "12080", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "8886" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "3194" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "11753", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "7929" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "3824" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "11699", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "9192" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "2507" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "11569", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "8405" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "3164" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "11648", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "7721" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "3927" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "11907", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "7333" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "4574" } ] },
+  { "name" : "QUESTION 8 - TOWN OF JOHNSTON", "contest_number" : "741", "total_votes" : "12450", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "9015" }, 
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "3435" } ] },
+  { "name" : "QUESTION 9 - TOWN OF JOHNSTON", "contest_number" : "742", "total_votes" : "12393", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 APPROVE", "party_code" : "NON", "votes" : "9930" }, 
+    { "name" : "Question 9 REJECT", "party_code" : "NON", "votes" : "2463" } ] },
+  { "name" : "QUESTION 10 - TOWN OF JOHNSTON", "contest_number" : "743", "total_votes" : "12182", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 10 APPROVE", "party_code" : "NON", "votes" : "7391" }, 
+    { "name" : "Question 10 REJECT", "party_code" : "NON", "votes" : "4791" }
+  ]}
+]}

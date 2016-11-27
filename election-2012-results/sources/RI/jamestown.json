@@ -1,0 +1,72 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "4", "precincts_reporting" : "4", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "3603", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "2181" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "1329" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "38" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "32" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "12" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "5" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "3" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "3" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "3376", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "2094" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "1277" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "5" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 1", "contest_number" : "103", "total_votes" : "3514", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David N. CICILLINE", "party_code" : "DEM", "votes" : "1657" }, 
+    { "name" : "Brendan P. DOHERTY", "party_code" : "REP", "votes" : "1582" }, 
+    { "name" : "David S. VOGEL", "party_code" : "IND", "votes" : "272" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 13", "contest_number" : "117", "total_votes" : "3445", "votes_allowed" : "1", "candidates" : [
+    { "name" : "M. Teresa PAIVA-WEED", "party_code" : "DEM", "votes" : "2261" }, 
+    { "name" : "Geoffrey William COOK", "party_code" : "REP", "votes" : "1178" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "6" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 74", "contest_number" : "216", "total_votes" : "3445", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Deborah L. RUGGIERO", "party_code" : "DEM", "votes" : "2362" }, 
+    { "name" : "Anthony A. MASTROSTEFANO", "party_code" : "REP", "votes" : "1082" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "MODERATOR TOWN OF JAMESTOWN", "contest_number" : "306", "total_votes" : "2870", "votes_allowed" : "1", "candidates" : [
+    { "name" : "John A. MURPHY", "party_code" : "DEM", "votes" : "2801" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "69" } ] },
+  { "name" : "TOWN COUNCIL TOWN OF JAMESTOWN", "contest_number" : "307", "total_votes" : "15352", "votes_allowed" : "5", "candidates" : [
+    { "name" : "Kristine Sandra TROCKI", "party_code" : "DEM", "votes" : "2240" }, 
+    { "name" : "Mary E. MEAGHER", "party_code" : "DEM", "votes" : "1918" }, 
+    { "name" : "Thomas P. TIGHE", "party_code" : "DEM", "votes" : "1520" }, 
+    { "name" : "Eugene B. MIHALY", "party_code" : "DEM", "votes" : "1493" }, 
+    { "name" : "Blake A. DICKINSON", "party_code" : "REP", "votes" : "1395" }, 
+    { "name" : "Ellen WINSOR", "party_code" : "IND", "votes" : "1333" }, 
+    { "name" : "Paul D. SPRAGUE", "party_code" : "REP", "votes" : "1322" }, 
+    { "name" : "George R. LEVESQUE", "party_code" : "DEM", "votes" : "1280" }, 
+    { "name" : "J. William W. HARSCH", "party_code" : "IND", "votes" : "1246" }, 
+    { "name" : "Daniel J. CAPUANO", "party_code" : "IND", "votes" : "1188" }, 
+    { "name" : "Evan C. KATZ", "party_code" : "IND", "votes" : "383" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "34" } ] },
+  { "name" : "SCHOOL COMMITTEE JAMESTOWN", "contest_number" : "308", "total_votes" : "8318", "votes_allowed" : "3", "candidates" : [
+    { "name" : "Catherine L. KAISER", "party_code" : "DEM", "votes" : "2366" }, 
+    { "name" : "Julia HELD", "party_code" : "DEM", "votes" : "2279" }, 
+    { "name" : "Ryan T. CONLON", "party_code" : "DEM", "votes" : "1971" }, 
+    { "name" : "Lowell S. THOMAS", "party_code" : "REP", "votes" : "1690" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "12" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "3405", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "2068" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "1337" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "3407", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "1944" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "1463" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "3312", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "2159" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "1153" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "3317", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "2503" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "814" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "3321", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "2486" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "835" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "3358", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "2544" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "814" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "3359", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "2086" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "1273" }
+  ]}
+]}

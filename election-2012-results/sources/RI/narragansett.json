@@ -1,0 +1,104 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "7", "precincts_reporting" : "6", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "7756", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "4339" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "3223" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "91" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "54" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "28" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "13" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "7" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "1" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "7282", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "4196" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "3064" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "22" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "7501", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "3420" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "3155" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "919" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 35", "contest_number" : "139", "total_votes" : "3584", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Winters B. HAMES, III", "party_code" : "DEM", "votes" : "1875" }, 
+    { "name" : "Dawson Tucker HODGSON", "party_code" : "REP", "votes" : "1698" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "11" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 36", "contest_number" : "140", "total_votes" : "3615", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James C. SHEEHAN", "party_code" : "DEM", "votes" : "2218" }, 
+    { "name" : "Mariacristina C. McKENDALL", "party_code" : "REP", "votes" : "1393" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "4" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 33", "contest_number" : "175", "total_votes" : "3803", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Donald J. LALLY, JR.", "party_code" : "DEM", "votes" : "2297" }, 
+    { "name" : "Robert A. TRAGER", "party_code" : "REP", "votes" : "1499" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 34", "contest_number" : "176", "total_votes" : "3577", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Christopher WILKENS", "party_code" : "REP", "votes" : "1801" }, 
+    { "name" : "Teresa TANZI", "party_code" : "DEM", "votes" : "1771" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "5" } ] },
+  { "name" : "NON-PARTISAN TOWN COUNCIL TOWN OF NARRAGANSETT", "contest_number" : "335", "total_votes" : "25308", "votes_allowed" : "5", "candidates" : [
+    { "name" : "James M. CALLAGHAN", "party_code" : "NON", "votes" : "3710" }, 
+    { "name" : "Susan CICILLINE-BUONANNO", "party_code" : "NON", "votes" : "3323" }, 
+    { "name" : "Matthew M. MANNIX", "party_code" : "NON", "votes" : "3119" }, 
+    { "name" : "Glenna M. HAGOPIAN", "party_code" : "NON", "votes" : "2840" }, 
+    { "name" : "Douglas E. McLAUGHLIN", "party_code" : "NON", "votes" : "2723" }, 
+    { "name" : "Patrick W. MURRAY", "party_code" : "NON", "votes" : "2272" }, 
+    { "name" : "David J. CROOK, SR.", "party_code" : "NON", "votes" : "2012" }, 
+    { "name" : "Alisa Trainor FLEET", "party_code" : "NON", "votes" : "1944" }, 
+    { "name" : "Michael L. LAPISKY", "party_code" : "NON", "votes" : "1784" }, 
+    { "name" : "Chris M. LACCINOLE", "party_code" : "NON", "votes" : "1466" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "115" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE TOWN OF NARRAGANSETT", "contest_number" : "336", "total_votes" : "18112", "votes_allowed" : "5", "candidates" : [
+    { "name" : "Tammy J. McNEIECE", "party_code" : "NON", "votes" : "4113" }, 
+    { "name" : "Keith T. RANALDI", "party_code" : "NON", "votes" : "3840" }, 
+    { "name" : "Diane S. NOBLES", "party_code" : "NON", "votes" : "3637" }, 
+    { "name" : "Frank M. WHITE", "party_code" : "NON", "votes" : "3234" }, 
+    { "name" : "Guy A. deWARDENER", "party_code" : "NON", "votes" : "3211" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "77" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "7219", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "4659" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "2560" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "7176", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "4515" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "2661" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "6986", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "4553" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "2433" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "6954", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "5312" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "1642" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "6926", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "5295" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "1631" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "7018", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "5091" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "1927" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "7045", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "4071" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "2974" } ] },
+  { "name" : "QUESTION 8 - TOWN OF NARRAGANSETT", "contest_number" : "751", "total_votes" : "7259", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "6039" }, 
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "1220" } ] },
+  { "name" : "QUESTION 9 - TOWN OF NARRAGANSETT", "contest_number" : "752", "total_votes" : "6663", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 APPROVE", "party_code" : "NON", "votes" : "3362" }, 
+    { "name" : "Question 9 REJECT", "party_code" : "NON", "votes" : "3301" } ] },
+  { "name" : "QUESTION 10 - TOWN OF NARRAGANSETT", "contest_number" : "753", "total_votes" : "6622", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 10 APPROVE", "party_code" : "NON", "votes" : "3425" }, 
+    { "name" : "Question 10 REJECT", "party_code" : "NON", "votes" : "3197" } ] },
+  { "name" : "QUESTION 11 - TOWN OF NARRAGANSETT", "contest_number" : "754", "total_votes" : "6477", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 11 APPROVE", "party_code" : "NON", "votes" : "3894" }, 
+    { "name" : "Question 11 REJECT", "party_code" : "NON", "votes" : "2583" } ] },
+  { "name" : "QUESTION 12 - TOWN OF NARRAGANSETT", "contest_number" : "755", "total_votes" : "6524", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 12 APPROVE", "party_code" : "NON", "votes" : "4610" }, 
+    { "name" : "Question 12 REJECT", "party_code" : "NON", "votes" : "1914" } ] },
+  { "name" : "QUESTION 13 - TOWN OF NARRAGANSETT", "contest_number" : "756", "total_votes" : "5975", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 13 APPROVE", "party_code" : "NON", "votes" : "3387" }, 
+    { "name" : "Question 13 REJECT", "party_code" : "NON", "votes" : "2588" } ] },
+  { "name" : "QUESTION 14 - TOWN OF NARRAGANSETT", "contest_number" : "757", "total_votes" : "6701", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 14 APPROVE", "party_code" : "NON", "votes" : "5211" }, 
+    { "name" : "Question 14 REJECT", "party_code" : "NON", "votes" : "1490" } ] },
+  { "name" : "QUESTION 15 - TOWN OF NARRAGANSETT", "contest_number" : "758", "total_votes" : "6618", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 15 APPROVE", "party_code" : "NON", "votes" : "3828" }, 
+    { "name" : "Question 15 REJECT", "party_code" : "NON", "votes" : "2790" } ] },
+  { "name" : "QUESTION 16 - TOWN OF NARRAGANSETT", "contest_number" : "759", "total_votes" : "6438", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 16 APPROVE", "party_code" : "NON", "votes" : "4405" }, 
+    { "name" : "Question 16 REJECT", "party_code" : "NON", "votes" : "2033" }
+  ]}
+]}

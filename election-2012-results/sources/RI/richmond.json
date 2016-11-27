@@ -1,0 +1,60 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "4", "precincts_reporting" : "3", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "3686", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "2002" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "1555" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "73" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "29" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "14" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "6" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "4" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "3" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "3549", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "2009" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "1531" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "9" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "3581", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "1684" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "1350" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "545" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "2" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 34", "contest_number" : "138", "total_votes" : "3486", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Catherine COOL RUMSEY", "party_code" : "DEM", "votes" : "1916" }, 
+    { "name" : "Francis T. MAHER, JR.", "party_code" : "REP", "votes" : "1567" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 39", "contest_number" : "181", "total_votes" : "3470", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Larry VALENCIA", "party_code" : "DEM", "votes" : "1941" }, 
+    { "name" : "Clay P. JOHNSON", "party_code" : "REP", "votes" : "1522" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "SCHOOL COMMITTEE TOWN OF RICHMOND", "contest_number" : "378", "total_votes" : "4059", "votes_allowed" : "2", "candidates" : [
+    { "name" : "Michelle COLE", "party_code" : "REP", "votes" : "2008" }, 
+    { "name" : "William G. DAY", "party_code" : "REP", "votes" : "1980" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "71" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "3510", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "2014" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "1496" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "3486", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "1929" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "1557" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "3424", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "1902" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "1522" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "3432", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "2562" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "870" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "3399", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "2214" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "1185" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "3425", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "2357" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "1068" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "3396", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "1794" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "1602" } ] },
+  { "name" : "QUESTION 8 - TOWN OF RICHMOND", "contest_number" : "709", "total_votes" : "3299", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "2538" }, 
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "761" } ] },
+  { "name" : "QUESTION 9 - TOWN OF RICHMOND", "contest_number" : "710", "total_votes" : "3331", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 REJECT", "party_code" : "NON", "votes" : "2256" }, 
+    { "name" : "Question 9 APPROVE", "party_code" : "NON", "votes" : "1075" }
+  ]}
+]}

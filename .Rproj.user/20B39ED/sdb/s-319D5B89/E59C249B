@@ -1,0 +1,17 @@
+{
+    "contents" : "library(reshape2)\nlibrary(plyr)\n###ALLL\npres.elect16.results_clean <- na.omit(pres.elect16.results) \npres.elect16.results_reshape <- dcast(pres.elect16.results_clean, fips ~ cand  , value.var = \"votes\")\npres.elect16.results_reshape[\"v_diff\"] <- pres.elect16.results_reshape$`Hillary Clinton` - pres.elect16.results_reshape$`Donald Trump`\nwrite.csv(pres.elect16.results_reshape , file = \"all_elec.csv\")\n\nwi_2012_reshape <- dcast(wi_2012, fips ~ candidate , value.var = \"votes\")\nwi_2012_reshape$total2012 <- rowSums(wi_2012_reshape[2:11])\nwi_2012_reshape$third2012 <- rowSums(wi_2012_reshape[3:6,8:11])\n#:3-6 , 8 -11\n\n#Maryland\nwi_2016 <- pres.elect16.results[pres.elect16.results$st == 'WI',]\nwi_2016_clean <- na.omit(wi_2016) \n\nwi_2016_reshape <- dcast(wi_2016_clean,fips ~  cand , value.var=\"votes\")\nwi_2016_reshape$total2016 <-rowSums(wi_2016_reshape[2:8])\nwi_2016_reshape$third2016 <- rowSums(wi_2016_reshape[,c (2, 4,6,7,8)])\n\n###new\n\nelec_new <- pres.elect16.results_reshape[, c('fips' , 'Hillary Clinton', 'Donald Trump' , 'Jill Stein', 'Gary Johnson')]\nelec_new[\"Third\"] <- elec_new$`Jill Stein` + elec_new$`Gary Johnson`\nelec_new[\"diff\"] <- elec_new$`Hillary Clinton`- elec_new$`Donald Trump`\nnames(elec_new)\ncolnames(elec_new)[1] <- \"FIPS\"\ncolnames(elec_new)[2] <- \"HRC\"\ncolnames(elec_new)[3] <- \"DJT\"\ncolnames(elec_new)[4] <- \"JS\"\ncolnames(elec_new)[5] <- \"GJ\"\nelec_new[\"total\"] <- elec_new$HRC + elec_new$DJT + elec_new$Third\nelec_new[\"pctHRC\"] <- elec_new$HRC / elec_new$total * 100\nelec_new[\"pctDJT\"] <- elec_new$DJT / elec_new$total * 100\nelec_new[\"pctDiff\"] <- elec_new$pctHRC - elec_new$pctDJT\nwrite.csv(elec_new, file = \"results_clean3.csv\")\n",
+    "created" : 1480265695997.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3266995584",
+    "id" : "E59C249B",
+    "lastKnownWriteTime" : 1480286706,
+    "path" : "~/RCode/election2016/election_difference.R",
+    "project_path" : "election_difference.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

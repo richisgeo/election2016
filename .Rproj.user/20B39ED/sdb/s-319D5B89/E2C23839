@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1480285760896.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E2C23839",
+    "lastKnownWriteTime" : 35592393990192,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4664009p3v",
+        "caption" : "wi_2016_reshape",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wi_2016_reshape&cache_key=4664009p3v",
+        "displayedObservations" : "72",
+        "environment" : "",
+        "object" : "wi_2016_reshape",
+        "totalObservations" : "72",
+        "variables" : "9"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

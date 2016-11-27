@@ -1,0 +1,100 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "18", "precincts_reporting" : "18", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "15298", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "9613" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "5404" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "144" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "56" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "46" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "15" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "14" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "6" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "14244", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "9381" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "4837" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "26" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 1", "contest_number" : "103", "total_votes" : "14815", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David N. CICILLINE", "party_code" : "DEM", "votes" : "7322" }, 
+    { "name" : "Brendan P. DOHERTY", "party_code" : "REP", "votes" : "6567" }, 
+    { "name" : "David S. VOGEL", "party_code" : "IND", "votes" : "913" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "13" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 4", "contest_number" : "108", "total_votes" : "7221", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Dominick J. RUGGERIO", "party_code" : "DEM", "votes" : "4609" }, 
+    { "name" : "John D. RICOTTILLI", "party_code" : "IND", "votes" : "2172" }, 
+    { "name" : "Michael J. ROLLINS", "party_code" : "Lib", "votes" : "417" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "23" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 7", "contest_number" : "111", "total_votes" : "2067", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Frank A. CICCONE, III", "party_code" : "DEM", "votes" : "1161" }, 
+    { "name" : "Catherine E. GRAZIANO", "party_code" : "IND", "votes" : "898" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "8" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 15", "contest_number" : "119", "total_votes" : "621", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Donna M. NESSELBUSH", "party_code" : "DEM", "votes" : "431" }, 
+    { "name" : "Robert P. VENTURINI", "party_code" : "IND", "votes" : "189" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 17", "contest_number" : "121", "total_votes" : "1555", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Edward J. O&#39;NEILL", "party_code" : "IND", "votes" : "782" }, 
+    { "name" : "John J. CULLEN", "party_code" : "DEM", "votes" : "714" }, 
+    { "name" : "Derek M. MEIKLEJOHN", "party_code" : "IND", "votes" : "56" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 22", "contest_number" : "126", "total_votes" : "2627", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Stephen R. ARCHAMBAULT", "party_code" : "DEM", "votes" : "1770" }, 
+    { "name" : "Richard A. POIRIER", "party_code" : "REP", "votes" : "854" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 6", "contest_number" : "148", "total_votes" : "1495", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Raymond A. HULL", "party_code" : "DEM", "votes" : "1464" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "31" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 54", "contest_number" : "196", "total_votes" : "6028", "votes_allowed" : "1", "candidates" : [
+    { "name" : "William W. O&#39;BRIEN", "party_code" : "DEM", "votes" : "3356" }, 
+    { "name" : "Kenneth J. AMORIGGI, II", "party_code" : "IND", "votes" : "2647" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "25" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 55", "contest_number" : "197", "total_votes" : "5332", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Arthur J. CORVESE", "party_code" : "DEM", "votes" : "5208" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "124" } ] },
+  { "name" : "MAYOR TOWN OF NORTH PROVIDENCE", "contest_number" : "354", "total_votes" : "12574", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Charles LOMBARDI", "party_code" : "DEM", "votes" : "11992" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "582" } ] },
+  { "name" : "COUNCIL NORTH PROVIDENCE DISTRICT 1", "contest_number" : "355", "total_votes" : "3484", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Mansuet J. GIUSTI, III", "party_code" : "DEM", "votes" : "3384" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "100" } ] },
+  { "name" : "COUNCIL NORTH PROVIDENCE DISTRICT 2", "contest_number" : "356", "total_votes" : "3961", "votes_allowed" : "1", "candidates" : [
+    { "name" : "William F. WARREN", "party_code" : "DEM", "votes" : "3906" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "55" } ] },
+  { "name" : "COUNCIL NORTH PROVIDENCE DISTRICT 3", "contest_number" : "357", "total_votes" : "4854", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Kristen J. CATANZARO", "party_code" : "DEM", "votes" : "2942" }, 
+    { "name" : "Joseph A. ZUCCOLO", "party_code" : "IND", "votes" : "1309" }, 
+    { "name" : "Daniel T. CONNOR", "party_code" : "REP", "votes" : "597" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "6" } ] },
+  { "name" : "SCHOOL COMMITTEE NORTH PROVIDENCE DISTRICT 1", "contest_number" : "358", "total_votes" : "4360", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Gina M. PICARD", "party_code" : "DEM", "votes" : "3091" }, 
+    { "name" : "Vito J. MARTINELLI", "party_code" : "IND", "votes" : "1243" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "26" } ] },
+  { "name" : "SCHOOL COMMITTEE NORTH PROVIDENCE DISTRICT 3", "contest_number" : "359", "total_votes" : "4662", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Steven M. ANDREOZZI", "party_code" : "DEM", "votes" : "3339" }, 
+    { "name" : "Anthony J. TUFANO", "party_code" : "IND", "votes" : "1311" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "12" } ] },
+  { "name" : "SCHOOL COMMITTEE NORTH PROVIDENCE DISTRICT 2", "contest_number" : "360", "total_votes" : "4988", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Roderick E. DA SILVA", "party_code" : "DEM", "votes" : "3432" }, 
+    { "name" : "Michael W. GROSSI", "party_code" : "REP", "votes" : "1547" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "9" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "14013", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "11153" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "2860" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "13641", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "10156" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "3485" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "13371", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "9683" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "3688" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "13275", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "10740" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "2535" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "13017", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "9834" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "3183" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "13157", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "9126" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "4031" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "13438", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "8856" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "4582" }
+  ]}
+]}

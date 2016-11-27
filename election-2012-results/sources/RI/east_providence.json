@@ -1,0 +1,116 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "19", "precincts_reporting" : "18", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "20253", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "14095" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "5752" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "196" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "99" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "66" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "26" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "13" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "6" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "18875", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "13507" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "5325" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "43" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 1", "contest_number" : "103", "total_votes" : "19689", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David N. CICILLINE", "party_code" : "DEM", "votes" : "11109" }, 
+    { "name" : "Brendan P. DOHERTY", "party_code" : "REP", "votes" : "7306" }, 
+    { "name" : "David S. VOGEL", "party_code" : "IND", "votes" : "1242" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "32" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 14", "contest_number" : "118", "total_votes" : "8436", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Daniel DaPONTE", "party_code" : "DEM", "votes" : "8218" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "218" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 18", "contest_number" : "122", "total_votes" : "5938", "votes_allowed" : "1", "candidates" : [
+    { "name" : "William J. CONLEY, JR.", "party_code" : "DEM", "votes" : "5798" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "140" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 32", "contest_number" : "136", "total_votes" : "1286", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David E. BATES", "party_code" : "REP", "votes" : "1235" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "51" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 63", "contest_number" : "205", "total_votes" : "6061", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Katherine S. KAZARIAN", "party_code" : "DEM", "votes" : "4227" }, 
+    { "name" : "David SULLIVAN", "party_code" : "IND", "votes" : "1816" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "18" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 64", "contest_number" : "206", "total_votes" : "3847", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Helio MELO", "party_code" : "DEM", "votes" : "3773" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "74" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 65", "contest_number" : "207", "total_votes" : "5784", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Gregg AMORE", "party_code" : "DEM", "votes" : "3898" }, 
+    { "name" : "Joseph A. BOTELHO, JR.", "party_code" : "MOD", "votes" : "1862" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "24" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 66", "contest_number" : "208", "total_votes" : "2330", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joy HEARN", "party_code" : "DEM", "votes" : "1063" }, 
+    { "name" : "Manfred DIEL, JR.", "party_code" : "REP", "votes" : "695" }, 
+    { "name" : "Eugene P. SAVEORY", "party_code" : "IND", "votes" : "570" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "2" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION&quot; COUNCIL WARD 1", "contest_number" : "270", "total_votes" : "4512", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James A. BRIDEN", "party_code" : "NON", "votes" : "2434" }, 
+    { "name" : "Edward R. LYNCH", "party_code" : "NON", "votes" : "2055" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "23" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION&quot; COUNCIL WARD 2", "contest_number" : "271", "total_votes" : "3257", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Helder J. CUNHA", "party_code" : "NON", "votes" : "1770" }, 
+    { "name" : "Bruce ROGERS", "party_code" : "NON", "votes" : "1475" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "12" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION&quot; COUNCIL WARD 3", "contest_number" : "272", "total_votes" : "3640", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Thomas A. ROSE, JR.", "party_code" : "NON", "votes" : "2050" }, 
+    { "name" : "Candace Cain SEEL", "party_code" : "NON", "votes" : "1577" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "13" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION&quot; COUNCIL WARD 4", "contest_number" : "273", "total_votes" : "3795", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Christine A. ROSSI", "party_code" : "NON", "votes" : "3592" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "203" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION&quot; COUNCIL-AT-LARGE", "contest_number" : "274", "total_votes" : "14952", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Tracy Ann CAPOBIANCO", "party_code" : "NON", "votes" : "9423" }, 
+    { "name" : "Steven E. SANTOS", "party_code" : "NON", "votes" : "5452" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "77" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION", "contest_number" : "275", "total_votes" : "4037", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Elizabeth Ava CLUPNY", "party_code" : "NON", "votes" : "2129" }, 
+    { "name" : "Betty J. DeCRESCENZO", "party_code" : "NON", "votes" : "1876" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "32" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION", "contest_number" : "276", "total_votes" : "2877", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Anthony J. FERREIRA", "party_code" : "NON", "votes" : "1725" }, 
+    { "name" : "Stephen A. FURTADO", "party_code" : "NON", "votes" : "1132" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "20" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION", "contest_number" : "277", "total_votes" : "2827", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Richard A. PIMENTEL", "party_code" : "NON", "votes" : "2777" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "50" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION", "contest_number" : "278", "total_votes" : "3989", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Timothy J. CONLEY", "party_code" : "NON", "votes" : "3922" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "67" } ] },
+  { "name" : "WITHOUT PARTY MARKS OR DESIGNATION", "contest_number" : "279", "total_votes" : "14652", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joel MONTEIRO", "party_code" : "NON", "votes" : "10596" }, 
+    { "name" : "Ronald R. WARR, JR.", "party_code" : "NON", "votes" : "3950" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "106" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "18711", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "13776" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "4935" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "18369", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "12777" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "5592" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "18026", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "12580" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "5446" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "17822", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "14237" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "3585" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "17673", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "13631" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "4042" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "17795", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "12534" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "5261" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "18107", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "12135" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "5972" } ] },
+  { "name" : "QUESTION 8 - CITY OF EAST PROVIDENCE", "contest_number" : "731", "total_votes" : "17702", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "12343" }, 
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "5359" } ] },
+  { "name" : "QUESTION 9 - CITY OF EAST PROVIDENCE", "contest_number" : "732", "total_votes" : "17421", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 APPROVE", "party_code" : "NON", "votes" : "11781" }, 
+    { "name" : "Question 9 REJECT", "party_code" : "NON", "votes" : "5640" } ] },
+  { "name" : "QUESTION 10 - CITY OF EAST PROVIDENCE", "contest_number" : "733", "total_votes" : "15880", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 10 APPROVE", "party_code" : "NON", "votes" : "10298" }, 
+    { "name" : "Question 10 REJECT", "party_code" : "NON", "votes" : "5582" } ] },
+  { "name" : "QUESTION 11 - CITY OF EAST PROVIDENCE", "contest_number" : "734", "total_votes" : "17029", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 11 APPROVE", "party_code" : "NON", "votes" : "9337" }, 
+    { "name" : "Question 11 REJECT", "party_code" : "NON", "votes" : "7692" }
+  ]}
+]}

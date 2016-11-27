@@ -1,0 +1,124 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "35", "precincts_reporting" : "34", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "40380", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "24448" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "15027" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "452" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "215" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "132" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "50" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "46" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "10" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "38243", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "23656" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "14497" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "90" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "39312", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "22684" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "13716" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "2884" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "28" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 29", "contest_number" : "133", "total_votes" : "10507", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Michael J. McCAFFREY", "party_code" : "DEM", "votes" : "10149" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "358" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 30", "contest_number" : "134", "total_votes" : "12436", "votes_allowed" : "1", "candidates" : [
+    { "name" : "William A. WALASKA", "party_code" : "DEM", "votes" : "7585" }, 
+    { "name" : "Keith E. BURKITT", "party_code" : "REP", "votes" : "2790" }, 
+    { "name" : "Arthur J. GROH, JR.", "party_code" : "IND", "votes" : "2041" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "20" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 31", "contest_number" : "135", "total_votes" : "10119", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Erin P. LYNCH", "party_code" : "DEM", "votes" : "9862" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "257" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 19", "contest_number" : "161", "total_votes" : "5148", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joseph McNAMARA", "party_code" : "DEM", "votes" : "5000" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "148" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 20", "contest_number" : "162", "total_votes" : "3985", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David A. BENNETT", "party_code" : "DEM", "votes" : "3871" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "114" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 21", "contest_number" : "163", "total_votes" : "4847", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Eileen Slattery NAUGHTON", "party_code" : "DEM", "votes" : "4723" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "124" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 22", "contest_number" : "164", "total_votes" : "4602", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Frank G. FERRI", "party_code" : "DEM", "votes" : "4463" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "139" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 23", "contest_number" : "165", "total_votes" : "6339", "votes_allowed" : "1", "candidates" : [
+    { "name" : "K. Joseph SHEKARCHI", "party_code" : "DEM", "votes" : "4302" }, 
+    { "name" : "John M. FALKOWSKI", "party_code" : "REP", "votes" : "2013" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "24" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 24", "contest_number" : "166", "total_votes" : "5279", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joseph A. TRILLO", "party_code" : "REP", "votes" : "5102" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "177" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 26", "contest_number" : "168", "total_votes" : "693", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Nicholas A. DENICE", "party_code" : "DEM", "votes" : "361" }, 
+    { "name" : "Patricia L. MORGAN", "party_code" : "REP", "votes" : "331" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 27", "contest_number" : "169", "total_votes" : "711", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Patricia A. SERPA", "party_code" : "DEM", "votes" : "467" }, 
+    { "name" : "Kyle S. PENDOLA", "party_code" : "REP", "votes" : "244" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "0" } ] },
+  { "name" : "MAYOR CITY OF WARWICK", "contest_number" : "401", "total_votes" : "37568", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Scott AVEDISIAN", "party_code" : "REP", "votes" : "30552" }, 
+    { "name" : "John T. KIRBY", "party_code" : "IND", "votes" : "6917" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "99" } ] },
+  { "name" : "COUNCIL WARWICK WARD 1", "contest_number" : "402", "total_votes" : "4802", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Steven A. COLANTUONO", "party_code" : "REP", "votes" : "2403" }, 
+    { "name" : "Sharon A. AHEARN", "party_code" : "DEM", "votes" : "2385" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "14" } ] },
+  { "name" : "COUNCIL WARWICK WARD 2", "contest_number" : "403", "total_votes" : "2961", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Thomas H. CHADRONET", "party_code" : "DEM", "votes" : "2884" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "77" } ] },
+  { "name" : "COUNCIL WARWICK WARD 3", "contest_number" : "404", "total_votes" : "3041", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Camille F. VELLA WILKINSON", "party_code" : "DEM", "votes" : "2971" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "70" } ] },
+  { "name" : "COUNCIL WARWICK WARD 4", "contest_number" : "405", "total_votes" : "3950", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joseph J. SOLOMON", "party_code" : "DEM", "votes" : "2411" }, 
+    { "name" : "Michael W. PENTA", "party_code" : "REP", "votes" : "1529" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "10" } ] },
+  { "name" : "COUNCIL WARWICK WARD 5", "contest_number" : "406", "total_votes" : "4092", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Edgar N. LADOUCEUR", "party_code" : "DEM", "votes" : "2262" }, 
+    { "name" : "Daniel E. HALL", "party_code" : "REP", "votes" : "1819" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "11" } ] },
+  { "name" : "COUNCIL WARWICK WARD 6", "contest_number" : "407", "total_votes" : "3982", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Donna M. TRAVIS", "party_code" : "DEM", "votes" : "2653" }, 
+    { "name" : "Catharine Marie LEACH", "party_code" : "REP", "votes" : "1322" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "COUNCIL WARWICK WARD 7", "contest_number" : "408", "total_votes" : "4290", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Charles J. DONOVAN, JR.", "party_code" : "DEM", "votes" : "2002" }, 
+    { "name" : "Alfred A. GEMMA", "party_code" : "IND", "votes" : "1443" }, 
+    { "name" : "William A. RUSSO", "party_code" : "IND", "votes" : "840" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "5" } ] },
+  { "name" : "COUNCIL WARWICK WARD 8", "contest_number" : "409", "total_votes" : "4161", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joseph E. GALLUCCI", "party_code" : "DEM", "votes" : "2642" }, 
+    { "name" : "Luelyn M. JENNINGS", "party_code" : "REP", "votes" : "1509" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "10" } ] },
+  { "name" : "COUNCIL WARWICK WARD 9", "contest_number" : "410", "total_votes" : "4228", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Steve MEROLLA", "party_code" : "DEM", "votes" : "4115" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "113" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE AT-LARGE CITY OF WARWICK", "contest_number" : "411", "total_votes" : "47275", "votes_allowed" : "2", "candidates" : [
+    { "name" : "Jennifer T. AHEARN", "party_code" : "NON", "votes" : "16436" }, 
+    { "name" : "Karen A. BACHUS", "party_code" : "NON", "votes" : "11267" }, 
+    { "name" : "Patrick E. MALONEY, JR.", "party_code" : "NON", "votes" : "9780" }, 
+    { "name" : "David A. TESTA", "party_code" : "NON", "votes" : "9497" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "295" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "38346", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "28185" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "10161" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "37915", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "26289" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "11626" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "37210", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "24166" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "13044" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "37181", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "29271" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "7910" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "36785", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "27503" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "9282" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "37159", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "26321" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "10838" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "37625", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "24609" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "13016" }
+  ]}
+]}

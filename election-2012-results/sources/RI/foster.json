@@ -1,0 +1,97 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "4", "precincts_reporting" : "4", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "2443", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "1280" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "1091" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "36" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "24" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "10" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "2" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "0" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "0" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "2353", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "1272" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "1080" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "2372", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "1187" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "972" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "212" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 21", "contest_number" : "125", "total_votes" : "2338", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Nicholas D. KETTLE", "party_code" : "REP", "votes" : "1184" }, 
+    { "name" : "Scott M. POLLARD", "party_code" : "DEM", "votes" : "1152" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "2" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 40", "contest_number" : "182", "total_votes" : "2320", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Michael W. CHIPPENDALE", "party_code" : "REP", "votes" : "1407" }, 
+    { "name" : "Lauri A. ARCHAMBAULT", "party_code" : "DEM", "votes" : "909" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "4" } ] },
+  { "name" : "TOWN MODERATOR TOWN OF FOSTER", "contest_number" : "288", "total_votes" : "1763", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Robert A. BOYDEN", "party_code" : "REP", "votes" : "1733" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "30" } ] },
+  { "name" : "TOWN CLERK TOWN OF FOSTER", "contest_number" : "289", "total_votes" : "1911", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Carol Lyons SHOLLY", "party_code" : "IND", "votes" : "1067" }, 
+    { "name" : "Lorraine NEARY", "party_code" : "IND", "votes" : "834" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "10" } ] },
+  { "name" : "TOWN COUNCIL TOWN OF FOSTER", "contest_number" : "290", "total_votes" : "10441", "votes_allowed" : "5", "candidates" : [
+    { "name" : "John L. LEWIS, JR.", "party_code" : "DEM", "votes" : "1019" }, 
+    { "name" : "Pamela J. FONTAINE", "party_code" : "REP", "votes" : "937" }, 
+    { "name" : "Roger Leroy HAWES", "party_code" : "DEM", "votes" : "927" }, 
+    { "name" : "Denise L. DiFRANCO", "party_code" : "REP", "votes" : "912" }, 
+    { "name" : "Neal C. WHITELAW", "party_code" : "REP", "votes" : "882" }, 
+    { "name" : "Robert O. HOHLER", "party_code" : "REP", "votes" : "846" }, 
+    { "name" : "Joseph D. CARDILLO", "party_code" : "DEM", "votes" : "790" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "753" }, 
+    { "name" : "Patricia A. FOUNTAIN", "party_code" : "REP", "votes" : "746" }, 
+    { "name" : "Taylor M. DILLON", "party_code" : "DEM", "votes" : "702" }, 
+    { "name" : "Michael E. DILLON", "party_code" : "IND", "votes" : "694" }, 
+    { "name" : "Todd A. SHOLLY", "party_code" : "DEM", "votes" : "679" }, 
+    { "name" : "Joseph D. CAREY", "party_code" : "IND", "votes" : "554" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE TOWN OF FOSTER", "contest_number" : "291", "total_votes" : "4323", "votes_allowed" : "3", "candidates" : [
+    { "name" : "Shelley D. PEZZA", "party_code" : "NON", "votes" : "1488" }, 
+    { "name" : "Kathleen TEGAN SWANSON", "party_code" : "NON", "votes" : "1462" }, 
+    { "name" : "Ronald F. CERVASIO", "party_code" : "NON", "votes" : "1073" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "300" } ] },
+  { "name" : "TOWN SERGEANT TOWN OF FOSTER", "contest_number" : "292", "total_votes" : "1877", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Michael COGGESHALL", "party_code" : "DEM", "votes" : "1852" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "25" } ] },
+  { "name" : "TAX BOARD OF REVIEW TOWN OF FOSTER", "contest_number" : "293", "total_votes" : "1729", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Lynne STENDER RIDER", "party_code" : "DEM", "votes" : "1679" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "50" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "2352", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "1512" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "840" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "2329", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "1432" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "897" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "2277", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "1254" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "1023" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "2270", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "1655" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "615" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "2241", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "1406" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "835" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "2299", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "1536" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "763" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "2292", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "1166" }, 
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "1126" } ] },
+  { "name" : "QUESTION 8 - TOWN OF FOSTER", "contest_number" : "736", "total_votes" : "2233", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "1637" }, 
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "596" } ] },
+  { "name" : "QUESTION 9 - TOWN OF FOSTER", "contest_number" : "737", "total_votes" : "2255", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 APPROVE", "party_code" : "NON", "votes" : "1893" }, 
+    { "name" : "Question 9 REJECT", "party_code" : "NON", "votes" : "362" } ] },
+  { "name" : "QUESTION 10 - TOWN OF FOSTER", "contest_number" : "738", "total_votes" : "2217", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 10 APPROVE", "party_code" : "NON", "votes" : "1720" }, 
+    { "name" : "Question 10 REJECT", "party_code" : "NON", "votes" : "497" } ] },
+  { "name" : "QUESTION 11 - TOWN OF FOSTER", "contest_number" : "739", "total_votes" : "2253", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 11 APPROVE", "party_code" : "NON", "votes" : "1817" }, 
+    { "name" : "Question 11 REJECT", "party_code" : "NON", "votes" : "436" } ] },
+  { "name" : "QUESTION 12 - TOWN OF FOSTER", "contest_number" : "740", "total_votes" : "2249", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 12 APPROVE", "party_code" : "NON", "votes" : "1756" }, 
+    { "name" : "Question 12 REJECT", "party_code" : "NON", "votes" : "493" }
+  ]}
+]}

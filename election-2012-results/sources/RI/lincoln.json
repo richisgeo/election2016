@@ -1,0 +1,101 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "13", "precincts_reporting" : "13", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "11064", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "6028" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "4866" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "81" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "40" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "32" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "9" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "8" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "0" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "10409", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "6052" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "4334" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "23" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 1", "contest_number" : "103", "total_votes" : "10840", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Brendan P. DOHERTY", "party_code" : "REP", "votes" : "6007" }, 
+    { "name" : "David N. CICILLINE", "party_code" : "DEM", "votes" : "4165" }, 
+    { "name" : "David S. VOGEL", "party_code" : "IND", "votes" : "653" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "15" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 17", "contest_number" : "121", "total_votes" : "9141", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Edward J. O&#39;NEILL", "party_code" : "IND", "votes" : "5481" }, 
+    { "name" : "John J. CULLEN", "party_code" : "DEM", "votes" : "3008" }, 
+    { "name" : "Derek M. MEIKLEJOHN", "party_code" : "IND", "votes" : "634" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "18" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 19", "contest_number" : "123", "total_votes" : "1121", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Ryan William PEARSON", "party_code" : "DEM", "votes" : "604" }, 
+    { "name" : "Bethany L. MOURA", "party_code" : "REP", "votes" : "392" }, 
+    { "name" : "Steven T. ORSINI", "party_code" : "IND", "votes" : "122" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 44", "contest_number" : "186", "total_votes" : "1851", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Gregory J. COSTANTINO", "party_code" : "DEM", "votes" : "1105" }, 
+    { "name" : "James W. ARCHER", "party_code" : "REP", "votes" : "745" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 45", "contest_number" : "187", "total_votes" : "1573", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Mia A. ACKERMAN", "party_code" : "DEM", "votes" : "1502" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "71" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 46", "contest_number" : "188", "total_votes" : "6781", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Jeremiah T. O&#39;GRADY", "party_code" : "DEM", "votes" : "2556" }, 
+    { "name" : "Matthew A. GUERRA", "party_code" : "REP", "votes" : "2259" }, 
+    { "name" : "Mary Ann SHALLCROSS SMITH", "party_code" : "IND", "votes" : "1731" }, 
+    { "name" : "Paul J. DiDOMENICO", "party_code" : "IND", "votes" : "222" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "13" } ] },
+  { "name" : "TOWN COUNCIL LINCOLN DISTRICT 1", "contest_number" : "317", "total_votes" : "1675", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Arthur S. RUSSO, JR.", "party_code" : "IND", "votes" : "1652" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "23" } ] },
+  { "name" : "TOWN COUNCIL LINCOLN DISTRICT 2", "contest_number" : "318", "total_votes" : "1774", "votes_allowed" : "1", "candidates" : [
+    { "name" : "John W. FLYNN", "party_code" : "DEM", "votes" : "1200" }, 
+    { "name" : "Felix L. FERNANDES", "party_code" : "REP", "votes" : "573" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "TOWN COUNCIL LINCOLN DISTRICT 3", "contest_number" : "319", "total_votes" : "2107", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Keith E. MACKSOUD", "party_code" : "IND", "votes" : "2063" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "44" } ] },
+  { "name" : "TOWN COUNCIL LINCOLN DISTRICT 4", "contest_number" : "320", "total_votes" : "1848", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. JAHNZ", "party_code" : "DEM", "votes" : "1820" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "28" } ] },
+  { "name" : "TOWN COUNCIL LINCOLN DISTRICT 5", "contest_number" : "321", "total_votes" : "1326", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Kenneth G. PICHETTE", "party_code" : "REP", "votes" : "1298" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "28" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE AT LARGE TOWN OF LINCOLN", "contest_number" : "322", "total_votes" : "10647", "votes_allowed" : "2", "candidates" : [
+    { "name" : "Julie M. ZITO", "party_code" : "NON", "votes" : "5983" }, 
+    { "name" : "John F. CARROLL", "party_code" : "NON", "votes" : "4589" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "75" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE LINCOLN DISTRICT 2", "contest_number" : "323", "total_votes" : "1383", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Tracey Ann CAVANAUGH", "party_code" : "NON", "votes" : "1376" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE LINCOLN DISTRICT 4", "contest_number" : "324", "total_votes" : "1684", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Maryanne H. ROLL", "party_code" : "NON", "votes" : "1663" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "21" } ] },
+  { "name" : "WATER COMMISSIONER LINCOLN DISTRICT 2", "contest_number" : "325", "total_votes" : "1763", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Eric F. FOX", "party_code" : "DEM", "votes" : "1013" }, 
+    { "name" : "Jean L. KAY", "party_code" : "REP", "votes" : "747" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "WATER COMMISSIONER LINCOLN DISTRICT 4", "contest_number" : "326", "total_votes" : "1817", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Frederick R. CONKLIN", "party_code" : "DEM", "votes" : "1788" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "29" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "10613", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "7924" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "2689" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "10350", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "7124" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "3226" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "10248", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "6896" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "3352" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "10198", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "7760" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "2438" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "10088", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "7346" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "2742" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "10151", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "6829" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "3322" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "10282", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "5858" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "4424" } ] },
+  { "name" : "QUESTION 8 - TOWN OF LINCOLN", "contest_number" : "744", "total_votes" : "10901", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "8096" }, 
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "2805" }
+  ]}
+]}

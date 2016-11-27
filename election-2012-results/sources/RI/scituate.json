@@ -1,0 +1,93 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "5", "precincts_reporting" : "5", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "5760", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "3018" }, 
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "2607" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "56" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "32" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "31" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "7" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "6" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "3" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "5522", "votes_allowed" : "1", "candidates" : [
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "2867" }, 
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "2640" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "15" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "5603", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "2702" }, 
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "2470" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "424" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 21", "contest_number" : "125", "total_votes" : "5530", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Nicholas D. KETTLE", "party_code" : "REP", "votes" : "2768" }, 
+    { "name" : "Scott M. POLLARD", "party_code" : "DEM", "votes" : "2750" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "12" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 41", "contest_number" : "183", "total_votes" : "5554", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Michael J. MARCELLO", "party_code" : "DEM", "votes" : "3171" }, 
+    { "name" : "Marco M. LUCCI", "party_code" : "REP", "votes" : "1961" }, 
+    { "name" : "Lee GROSSGUTH", "party_code" : "IND", "votes" : "415" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "TOWN CLERK TOWN OF SCITUATE", "contest_number" : "379", "total_votes" : "4735", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Margaret McGRAW LONG", "party_code" : "DEM", "votes" : "4672" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "63" } ] },
+  { "name" : "SCHOOL COMMITTEE TOWN OF SCITUATE", "contest_number" : "380", "total_votes" : "8500", "votes_allowed" : "2", "candidates" : [
+    { "name" : "Jean N. ESPOSITO", "party_code" : "DEM", "votes" : "3131" }, 
+    { "name" : "Marylou UMBRIANO", "party_code" : "REP", "votes" : "2748" }, 
+    { "name" : "Scott B. KLIMAJ", "party_code" : "REP", "votes" : "2590" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "31" } ] },
+  { "name" : "TOWN COUNCIL TOWN OF SCITUATE", "contest_number" : "381", "total_votes" : "29177", "votes_allowed" : "7", "candidates" : [
+    { "name" : "Brenda L. FREDERICKSON", "party_code" : "REP", "votes" : "3030" }, 
+    { "name" : "David A. D&#39;AGOSTINO", "party_code" : "REP", "votes" : "3022" }, 
+    { "name" : "Charles A. COLLINS, JR.", "party_code" : "REP", "votes" : "2961" }, 
+    { "name" : "Kathleen L. KNIGHT-BIANCHI", "party_code" : "REP", "votes" : "2804" }, 
+    { "name" : "John F. WINFIELD, JR.", "party_code" : "REP", "votes" : "2765" }, 
+    { "name" : "David L. HANNA, JR.", "party_code" : "REP", "votes" : "2668" }, 
+    { "name" : "William H. HURRY, JR.", "party_code" : "REP", "votes" : "2574" }, 
+    { "name" : "Pamela CAROSI", "party_code" : "DEM", "votes" : "2398" }, 
+    { "name" : "Kara Marie FAY", "party_code" : "DEM", "votes" : "2358" }, 
+    { "name" : "Kirk A. RERICK", "party_code" : "DEM", "votes" : "2322" }, 
+    { "name" : "Marco P. SCHIAPPA", "party_code" : "DEM", "votes" : "2183" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "92" } ] },
+  { "name" : "TOWN TREASURER TOWN OF SCITUATE", "contest_number" : "382", "total_votes" : "5397", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sharon S. JOHNSON", "party_code" : "DEM", "votes" : "2784" }, 
+    { "name" : "Theodore J. PRZYBYLA", "party_code" : "REP", "votes" : "2599" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "14" } ] },
+  { "name" : "TOWN SERGEANT TOWN OF SCITUATE", "contest_number" : "383", "total_votes" : "5370", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Bradford A. DEXTER", "party_code" : "REP", "votes" : "3044" }, 
+    { "name" : "Salvatore LOMBARDI", "party_code" : "DEM", "votes" : "2312" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "14" } ] },
+  { "name" : "TOWN MODERATOR TOWN OF SCITUATE", "contest_number" : "384", "total_votes" : "4298", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David M. D&#39;AGOSTINO", "party_code" : "REP", "votes" : "4252" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "46" } ] },
+  { "name" : "DIRECTOR OF PUBLIC WELFARE TOWN OF SCITUATE", "contest_number" : "385", "total_votes" : "5192", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joseph Adam STEINER, III", "party_code" : "REP", "votes" : "2730" }, 
+    { "name" : "Neal J. DROBNIS", "party_code" : "DEM", "votes" : "2452" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "10" } ] },
+  { "name" : "BOARD OF ASSESSMENT REVIEW TOWN OF SCITUATE", "contest_number" : "386", "total_votes" : "9405", "votes_allowed" : "2", "candidates" : [
+    { "name" : "Roger D. MEDBURY", "party_code" : "REP", "votes" : "2767" }, 
+    { "name" : "Rita J. LaDUKE", "party_code" : "REP", "votes" : "2622" }, 
+    { "name" : "Steven G. MARSOCCI", "party_code" : "DEM", "votes" : "2328" }, 
+    { "name" : "Victor S. LASORSA", "party_code" : "DEM", "votes" : "1671" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "17" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "5545", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "3743" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "1802" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "5497", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "3552" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "1945" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "5465", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "3288" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "2177" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "5423", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "3989" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "1434" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "5385", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "3371" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "2014" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "5403", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "3439" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "1964" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "5407", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "2740" }, 
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "2667" }
+  ]}
+]}

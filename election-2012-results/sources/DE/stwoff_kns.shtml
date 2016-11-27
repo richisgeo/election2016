@@ -1,0 +1,183 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html lang="en-US">
+<head>
+<!-- CLF v2.2 - 12/15/2004 -->
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta http-equiv="refresh" content="300">
+<!-- Global meta tags, external stylesheets and scripts -->
+<link href="/private/stylesheets/header.css" rel="stylesheet" type="text/css">
+<link href="/private/stylesheets/globalstyle.css" rel="stylesheet" type="text/css">
+<link id="cssPrint" href="/private/stylesheets/print1.css" rel="stylesheet" type="text/css">
+<link id="cssText" href="/private/stylesheets/text1.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript" src="/private/js/main.js"></script>
+<script language="JavaScript" type="text/javascript" src="/navigation/header.js"></script>
+<script language="JavaScript" type="text/javascript">window.onload = function(){hdrConfigs();};</script>
+<script language="JavaScript" type="text/javascript">document.onkeyup=function(ev){keyClose(ev);}</script>
+
+
+<!-- PAGE HEADER: Tag above includes the global header, please do not modify the tag -->
+<!-- BEGIN: CUSTOMIZABLE HEADER -->
+<!-- Customizable external stylesheets and scripts -->
+<link href="/stylesheets/stwoff_KNS.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript" src="/js/preLoad.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/unofresl.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/refresh.js"></script>
+<!-- Customize the keywords and the agency description in the meta tags.  Also include the page title -->
+<meta name="Keywords" content="Elections, Delaware, State of Delaware, Election Results">
+<meta name="Description" content="Delaware Election Results">
+<title>State Of Delaware - Elections Results</title>
+<!-- END: CUSTOMIZABLE HEADER -->
+</head>
+<body>
+<!-- BEGINNING OF HEADER INCLUDE FILE --> <!--googleoff: all--> <!-- CLF v2.3.4 - 01/05/2011 --> <div id="hdr"> <a tabindex="1" href="#PageContent"><img src="/private/images/spacer.gif" width="100%" height="2" border="1" alt="Skip to Page Content" title="Skip to Page Content"></a> <form id="hdrSrchForm" action="http://search.delaware.gov/search" method="get"> <table border="0" width="100%" cellspacing="0" cellpadding="0" summary="State of Delaware Header Layout"> <tr> <td> <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="Layout"> <tr> <td align="left" width="20%" class="hdr_top_l"><a title="State of Delaware Web Portal" tabindex="2000" href="http://www.delaware.gov">Delaware.gov</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a title="Text-Only Pages" tabindex="3000" href="http://www.delaware.gov/egov/portal.nsf/allfiles/txt/$file/portal.htm">Text&nbsp;Only</a></td> <td align="right" width="80%" class="hdr_top_r"><a title="Governor's Website" tabindex="4000" href="http://governor.delaware.gov">Governor</a> | <a title="Legislative Branch Website" tabindex="5000" href="http://legis.delaware.gov/">General Assembly</a> | <a title="Judicial Branch Website" tabindex="6000" href="http://courts.delaware.gov/">Courts</a> | <a title="List of Elected Officials" tabindex="7000" href="http://www.delaware.gov/egov/portal.nsf/portal/yourgovernment" onclick="showItem('head_','head_1');return false;">Elected Officials</a> | <a title="List of State Agencies" tabindex="8000" href="http://www.delaware.gov/egov/portal.nsf/portal/agencylist_alpha" onclick="showItem('head_','head_2');return false;">State Agencies</a></td> <td> <div id="headerCallOuts"> <div id="head_1" class="hDiv"> <div class="head_ptr_wpr"> <div class="closeDiv"> <a title="Close Elected Officials (Esc)" tabindex="7013" href="#" onclick="showItem('head_','head_1');return false;" class="hdr_x"><strong>X</strong></a> </div> <div class="head_1u_ptr"></div> <div class="head_1_ptr"></div> </div> <div class="tabBodyS"> <span class="rdcnHtop"><span class="rdcnHt1"></span><span class="rdcnHt2"></span><span class="rdcnHt3"></span><span class="rdcnHt4"></span></span> <div class="tabBodyH"> <div class="hdr_elect clearfix"> <div class="hdr_l"> <strong>United States</strong><br> - <a tabindex="7001" href="http://carper.senate.gov/">Senator Thomas R. Carper</a><br> - <a tabindex="7002" href="http://coons.senate.gov">Senator Christopher A. Coons</a><br> - <a tabindex="7003" href="http://johncarney.house.gov/">Representative John C. Carney</a><br> </div> <div class="hdr_m"> <strong>Delaware</strong><br> - <a tabindex="7004" href="http://governor.delaware.gov/">Governor Jack Markell</a><br> - <a tabindex="7005" href="http://ltgov.delaware.gov/">Lt. Governor Matthew Denn</a><br> - <a tabindex="7006" href="http://legis.delaware.gov/Legislature.nsf/Sen?openview&amp;nav=contact">List of State Senators</a><br> - <a tabindex="7007" href="http://legis.delaware.gov/Legislature.nsf/Reps?openview&amp;count=75&amp;nav=contact">List of State Representatives</a><br> </div> <div class="hdr_r"> &nbsp;<br> - <a tabindex="7008" href="http://auditor.delaware.gov/">Auditor R. Thomas Wagner, Jr.</a><br> - <a tabindex="7009" href="http://attorneygeneral.delaware.gov/">Attorney General Joseph R. Biden, III</a><br> - <a tabindex="7010" href="http://www.delawareinsurance.gov/">Insurance Commissioner Karen Weldin Stewart</a><br> - <a tabindex="7011" href="http://treasurer.delaware.gov/">State Treasurer Chipman Flowers, Jr.</a><br> </div> </div> <div class="hdr_sp"> &nbsp; </div> <div class="tabMore"> <strong><a tabindex="7012" href="http://www.delaware.gov/egov/portal.nsf/portal/yourgovernment">See More About Delaware Government</a></strong> </div> </div> <span class="rdcnHbottom"><span class="rdcnHb4"></span><span class="rdcnHb3"></span><span class="rdcnHb2"></span><span class="rdcnHb1"></span></span> </div> </div> <div id="head_2" class="hDiv"> <div class="head_ptr_wpr"> <div class="closeDiv"> <a title="Close State Agencies (Esc)" tabindex="8021" href="#" onclick="showItem('head_','head_2');return false;" class="hdr_x"><strong>X</strong></a> </div> <div class="head_2u_ptr"></div> <div class="head_2_ptr"></div> </div> <div class="tabBodyS"> <span class="rdcnHtop"><span class="rdcnHt1"></span><span class="rdcnHt2"></span><span class="rdcnHt3"></span><span class="rdcnHt4"></span></span> <div class="tabBodyH"> <div class="hdr_agency clearfix"> <div class="hdr_l"> - <a tabindex="8001" href="http://www.dhss.delaware.gov/dhss/dcse/">Child Support Enforcement</a><br> - <a tabindex="8002" href="http://attorneygeneral.delaware.gov/consumers/protection/safeguarding.shtml">Consumer Protection</a><br> - <a tabindex="8003" href="http://corp.delaware.gov/">Corporations</a><br> - <a tabindex="8004" href="http://www.deldot.gov/">DelDOT</a><br> - <a tabindex="8005" href="http://www.dmv.de.gov/">DMV</a><br> - <a tabindex="8006" href="http://www.doe.k12.de.us/">Education</a><br> </div> <div class="hdr_m"> - <a tabindex="8007" href="http://courts.delaware.gov/Courts/Family%20Court/">Family Court</a><br> - <a tabindex="8008" href="http://dhss.delaware.gov/">Health &amp; Social Services</a><br> - <a tabindex="8009" href="http://www.delawarepersonnel.com/">Human Resources Management</a><br> - <a tabindex="8010" href="http://omb.delaware.gov/">Management &amp; Budget, Office of</a><br> - <a tabindex="8011" href="http://www.destateparks.com/">Parks and Recreation</a><br> - <a tabindex="8012" href="http://dpr.delaware.gov/">Professional Regulation</a><br> </div> <div class="hdr_r"> - <a tabindex="8013" href="http://revenue.delaware.gov/">Revenue, Division of</a><br> - <a tabindex="8014" href="http://dshs.delaware.gov/">Safety &amp; Homeland Security</a><br> - <a tabindex="8015" href="http://kids.delaware.gov/">Services for Children, Youth &amp; Families</a><br> - <a tabindex="8016" href="http://dsp.delaware.gov/sbi.shtml">State Bureau of Identification (SBI)</a><br> - <a tabindex="8017" href="http://ui.delawareworks.com/">Unemployment Insurance</a><br> - <a tabindex="8018" href="http://www.visitdelaware.com/">Visit Delaware (Tourism)</a><br> </div> </div> <div class="hdr_sp"> &nbsp; </div> <div class="tabMore"> See All State Agencies:&nbsp;&nbsp;<strong><a tabindex="8019" href="http://www.delaware.gov/egov/portal.nsf/portal/agencylist_alpha">Listed Alphabetically</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a tabindex="8020" href="http://www.delaware.gov/egov/portal.nsf/portal/agencylist_dept">Listed by Department</a></strong> </div> </div> <span class="rdcnHbottom"><span class="rdcnHb4"></span><span class="rdcnHb3"></span><span class="rdcnHb2"></span><span class="rdcnHb1"></span></span> </div> </div> <div id="head_srch" class="hDiv"> <div class="tabBodyS_srch"> <span class="rdcnStop"><span class="rdcnSt1"></span><span class="rdcnSt2"></span><span class="rdcnSt3"></span><span class="rdcnSt4"></span></span> <div class="tabBodyH pad6"> &nbsp;<strong>Search:</strong>&nbsp;<label for="hdrSrchAg" title="Select to Only Search this Agency"><input id="hdrSrchAg" name="as_sitesearch" tabindex="9001" type="radio" value="" checked>This Site</label>&nbsp;&nbsp;&nbsp;<label for="hdrSrchState" title="Select to Search Statewide"><input id="hdrSrchState" name="as_sitesearch" tabindex="9002" type="radio" value=""></label>Statewide&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a title="Select for Advance Search Form" tabindex="9003" href="http://search.delaware.gov/search?output=xml_no_dtd&amp;client=default_frontend&amp;proxystylesheet=default_frontend&amp;proxycustom=%3CADVANCED/%3E">Advanced Search</a> </div> <span class="rdcnSbottom"><span class="rdcnSb4"></span><span class="rdcnSb3"></span><span class="rdcnSb2"></span><span class="rdcnSb1"></span></span> <div class="head_srch_ptr_wpr"> <div class="closeDiv_srch"> <a title="Close Search Options (Esc)" tabindex="9004" href="#" onclick="showItem('head_','head_srch_close');return false;" class="hdr_x_srch"><strong>X</strong></a> </div> <div class="head_srch_u_ptr"></div> <div class="head_srch_ptr"></div> </div> </div> </div> </div> </td> </tr> </table> </td> </tr> <tr> <td> <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="Layout"> <tr> <td id="hdrImgBlock" style="background-image:url('http://www.delaware.gov/egov/portal.nsf/allfiles/images/$file/hdr.jpg');"> <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="Layout"> <tr> <td width="270"><a id="hdrLogoLink" href="http://www.delaware.gov" name="hdrLogoLink"><img id="hdrLogo" src="/private/images/spacer.gif" title="State of Delaware - The Official Website of the First State" alt="Photo: State of Delaware" width="295" height="124" border="0" align="left"></a></td> <td>&nbsp;</td> <td width="475"><a id="hdrTxtLink" href="http://www.delaware.gov/egov/portal.nsf/portal/multimediaphotos" name="hdrTxtLink"><img id="hdrTxt" src="http://www.delaware.gov/egov/portal.nsf/allfiles/images/$file/hdr_txt.gif" title="Featured Delaware Photo" alt="Photo: Featured Delaware Photo" width="475" height="138" align="right" border="0"></a></td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td id="hdrBar"> <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="Layout"> <tr> <td align="left" width="260"> <table width="100%" border="0" cellspacing="0" cellpadding="0" summary="Layout"> <tr> <td> <div id="hdrSrchBox"> <label for="srchBox" title="Enter Your Search Keyword(s) here"><input id="srchBox" name="q" accesskey="S" tabindex="9000" type="text" value=" Your Search..." onclick="showItem('head_','head_srch');if(this.value==' Your Search...') this.value='';return false;" onfocus="showItem('head_','head_srch');if(this.value==' Your Search...') this.value='';return false;"></label> </div> </td> <td>&nbsp;</td> <td width="100" id="hdrSrchBtn"><label for="srchBtn" title="Submit Your Search"><input id="srchBtn" name="srch_btn" type="image" accesskey="G" tabindex="10000" src="/private/images/srch_sb.gif" onclick="return chkSrch();" alt=""></label></td> </tr> </table> </td> <td>&nbsp;</td> <td align="right"> <table id="btns" class="hDiv" cellspacing="0" cellpadding="0" summary="Layout"> <tr><td id="p7c" title="View RSS Feeds" onclick="jsLink('http://www.delaware.gov/egov/portal.nsf/portal/subscriberss');">&nbsp;</td><td id="p7c_t" class="pd"><a id="hdrRSSLink" title="View RSS Feeds" tabindex="11000" href="http://www.delaware.gov/egov/portal.nsf/portal/subscriberss" name="hdrRSSLink">RSS</a></td><td id="p1c" title="View State Phone Numbers" onclick="jsLink('http://phonedirectory.delaware.gov');">&nbsp;</td> <td id="p1c_t" class="pd"><a id="hdrPhoneLink" title="View State Phone Numbers" tabindex="12000" href="http://phonedirectory.delaware.gov" name="hdrPhoneLink">Phone&nbsp;Numbers</a></td> <td id="p2c" title="View Mobile Content" onclick="jsLink('http://mobile.delaware.gov');">&nbsp;</td> <td id="p2c_t" class="pd"><a id="hdrMobileLink" title="View Mobile Content" tabindex="13000" href="http://mobile.delaware.gov/" name="hdrMobileLink">Mobile</a></td> <td id="p3c" title="View Online Help" onclick="jsLink('http://portal.delaware.gov/help/');">&nbsp;</td> <td id="p3c_t" class="pd"><a id="hdrHelpLink" title="View Online Help" tabindex="14000" href="http://portal.delaware.gov/help/" name="hdrHelpLink">Help</a></td> <td id="p4c" title="Increase the Font Size of this Page" onclick="togFontSize('cssText','p4c','text','2'); return false;">&nbsp;</td> <td id="p4c_t" class="pd"><a id="fontToggleText" title="Increase the Font Size of this Page" tabindex="15000" href="#" onclick="togFontSize('cssText','fontToggleText','text','2'); return false;">Size</a></td> <td id="p5c" title="View a Printer Friendly Version of this Page" onclick="openPopup(location.href+'#print',720,520,'winPrint'); return false;">&nbsp;</td> <td id="p5c_t" class="pd"><a id="printToggleText" title="View a Printer Friendly Version of this Page" tabindex="16000" href="#" onclick="openPopup(location.href+'#print',720,520,'winPrint'); return false;" name="printToggleText">Print</a></td> <td id="p6c" title="Email this Page" onclick="openPopup('http://smu.portal.delaware.gov/cgi-bin/mail.php?email_friend&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),570,410,'winEmail');return false;">&nbsp;</td> <td id="p6c_t" class="pd"><a id="hdrEmailLink" title="Email this Page" tabindex="17000" href="#" onclick="openPopup('http://smu.portal.delaware.gov/cgi-bin/mail.php?email_friend&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),570,410,'winEmail');return false;" name="hdrEmailLink">Email</a></td> </tr> </table> </td> </tr> </table> </td> </tr> </table> </form> <div id="hdrPrint" class="hDiv"></div> </div><a name="PageContent" id="PageContent"></a> <!--googleon: all--> <!-- END OF HEADER INCLUDE FILE-->
+<!-- PAGE HEADER: Tag above includes the global header, please do not modify the tag -->
+<div id="bodyTable">
+<h4 id="siteTitle"><a href="/default.shtml">Commissioner of Elections</a></h4>
+
+<!-- SITE TITLE: To change the site title, go to the include file listed above -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="TableBody">
+<tr>
+<td class="goldBar" colspan="3">
+<img src="/private/images/spacer.gif" width="30" height="3" alt="" border="0">
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="18%" valign="top" class="greyBarSide">
+<!-- BEGIN: SITE NAVIGATION -->
+<div id="navBar">
+<div id="navHome">
+<a href="/default.shtml" class="navMainLink"><b>HOME</b></a><br/>
+<!-- HOME LINKS: Do not add further items to this section, either include them under Services or Information.  In this section please link within the <a> tag the proper pages for each of the sections listed -->
+		<br /><a href="/aboutagency.shtml">About Agency</a><br />
+        <a href="/letter.shtml">Director&#039;s Letter</a><br />
+        <a href="/news.shtml">Newsroom</a><br />
+        <a href="/divisions.shtml">Divisions</a><br />
+        <a href="/business.shtml">RFPs</a><br />
+        <a href="/faqs.shtml">FAQs</a><br />
+        <a href="/employment.shtml">Employment</a><br />
+		<a href="/pdf/2012ElectionCalendar.pdf">Calendar of Events</a><br />
+        <a href="/links.shtml">Related Links</a><br>
+        <a href="/contact.shtml">Contact Information</a><br />
+        <a href="/locations.shtml">Office Locations</a><br />
+     	<a href="/sitemap.shtml">Agency Site Map</a><br /><br />
+	<a href="/services/candidate/candidate_list.shtml">Ballot Qualified<br />
+    Candidates</a><br />
+
+
+<!-- HOME LINKS: To change the home links,-go to the include file listed above -->
+</div>
+<div id="navServices">
+<a href="/services/services.shtml" class="navMainLink"><b>SERVICES</b></a><br/>
+<!-- Being this is a page under HOME, these links do not show up -->
+</div>
+<div id="navInformation">
+<a href="/information/information.shtml" class="navMainLink"><b>INFORMATION</b></a><br/>
+<!-- Being this is a page under HOME, these links do not show up -->
+</div>
+</div>
+<!-- END: SITE NAVIGATION -->
+</td>
+<td valign="top" width="82%">
+<div id="mainBody">
+<!-- BEGIN: MAIN BODY AREA -->
+<!-- PAGE TITLE:  For site consistancy, please keep your interior pages page titles in the H3 brackets -->
+<div id="myStyle">
+<div id="head1">State Of Delaware Elections System</div>
+<div id="head2">Official Election Results</div>
+<div id="head3">General Elections - 11/06/12</div>
+<div id="head4">Statewide Offices By County</div>
+<div id="head5">Last Updated: 11/14/2012 @ 08:45 AM</div>
+<br/>
+<table>
+<tr id="county-heads"><td>&nbsp;</td><td>New<br/>Castle</td><td>Kent</td><td>Sussex</td><td>State</td></tr>
+<tr id="office"><td>PRESIDENT</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td id="candidate">OBAMA BARACK</td><td id="votes">167,082</td><td id="votes"> 35,527</td><td id="votes"> 39,975</td><td id="votes">  242,584</td></tr>
+<tr><td id="candidate">ROMNEY MITT</td><td id="votes"> 81,230</td><td id="votes"> 32,135</td><td id="votes"> 52,119</td><td id="votes">  165,484</td></tr>
+<tr><td id="candidate">STEIN JILL</td><td id="votes">  1,198</td><td id="votes">    333</td><td id="votes">    409</td><td id="votes">    1,940</td></tr>
+<tr><td id="candidate">JOHNSON GARY</td><td id="votes">  2,486</td><td id="votes">    677</td><td id="votes">    719</td><td id="votes">    3,882</td></tr>
+<tr><td id="total">Office Total</td><td id="votes2">  251,996</td><td id="votes2">   68,672</td><td id="votes2">   93,222</td><td id="votes2">    413,890</td></tr>
+<tr><td id="total">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td></tr>
+<tr id="office"><td>UNITED STATES SENATOR</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td id="candidate">CARPER THOMAS R.</td><td id="votes">177,244</td><td id="votes"> 40,750</td><td id="votes"> 47,421</td><td id="votes">  265,415</td></tr>
+<tr><td id="candidate">WADE KEVIN</td><td id="votes"> 56,666</td><td id="votes"> 22,561</td><td id="votes"> 36,473</td><td id="votes">  115,700</td></tr>
+<tr><td id="candidate">GROFF ANDREW RICHARD</td><td id="votes">  2,051</td><td id="votes">    457</td><td id="votes">    683</td><td id="votes">    3,191</td></tr>
+<tr><td id="candidate">PIRES ALEXANDER</td><td id="votes">  6,874</td><td id="votes">  2,522</td><td id="votes">  5,904</td><td id="votes">   15,300</td></tr>
+<tr><td id="total">Office Total</td><td id="votes2">  242,835</td><td id="votes2">   66,290</td><td id="votes2">   90,481</td><td id="votes2">    399,606</td></tr>
+<tr><td id="total">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td></tr>
+<tr id="office"><td>REPRESENTATIVE IN CONGRESS</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td id="candidate">CARNEY JR. JOHN C.</td><td id="votes">165,723</td><td id="votes"> 38,044</td><td id="votes"> 46,166</td><td id="votes">  249,933</td></tr>
+<tr><td id="candidate">KOVACH THOMAS H.</td><td id="votes"> 65,066</td><td id="votes"> 24,623</td><td id="votes"> 40,068</td><td id="votes">  129,757</td></tr>
+<tr><td id="candidate">AUGUST BERNARD</td><td id="votes">  2,647</td><td id="votes">    690</td><td id="votes">    936</td><td id="votes">    4,273</td></tr>
+<tr><td id="candidate">GESTY SCOTT</td><td id="votes">  2,430</td><td id="votes">    785</td><td id="votes">    881</td><td id="votes">    4,096</td></tr>
+<tr><td id="total">Office Total</td><td id="votes2">  235,866</td><td id="votes2">   64,142</td><td id="votes2">   88,051</td><td id="votes2">    388,059</td></tr>
+<tr><td id="total">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td></tr>
+<tr id="office"><td>GOVERNOR</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td id="candidate">MARKELL JACK A.</td><td id="votes">183,858</td><td id="votes"> 40,696</td><td id="votes"> 51,439</td><td id="votes">  275,993</td></tr>
+<tr><td id="candidate">CRAGG JEFFREY E.</td><td id="votes"> 53,510</td><td id="votes"> 23,846</td><td id="votes"> 36,437</td><td id="votes">  113,793</td></tr>
+<tr><td id="candidate">PERRI MARK JOSEPH</td><td id="votes">  2,642</td><td id="votes">    781</td><td id="votes">  1,152</td><td id="votes">    4,575</td></tr>
+<tr><td id="candidate">MCVAY JESSE</td><td id="votes">  2,129</td><td id="votes">    844</td><td id="votes">    695</td><td id="votes">    3,668</td></tr>
+<tr><td id="total">Office Total</td><td id="votes2">  242,139</td><td id="votes2">   66,167</td><td id="votes2">   89,723</td><td id="votes2">    398,029</td></tr>
+<tr><td id="total">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td></tr>
+<tr id="office"><td>LIEUTENANT GOVERNOR</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td id="candidate">DENN MATTHEW</td><td id="votes">160,900</td><td id="votes"> 35,522</td><td id="votes"> 42,537</td><td id="votes">  238,959</td></tr>
+<tr><td id="candidate">VALENZUELA CHERYL ANNE</td><td id="votes"> 71,683</td><td id="votes"> 28,021</td><td id="votes"> 44,274</td><td id="votes">  143,978</td></tr>
+<tr><td id="candidate">MCKEOWN MARGARET</td><td id="votes">  3,206</td><td id="votes">    957</td><td id="votes">  1,043</td><td id="votes">    5,206</td></tr>
+<tr><td id="total">Office Total</td><td id="votes2">  235,789</td><td id="votes2">   64,500</td><td id="votes2">   87,854</td><td id="votes2">    388,143</td></tr>
+<tr><td id="total">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td></tr>
+<tr id="office"><td>INSURANCE COMMISSIONER</td>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td id="candidate">STEWART KAREN WELDIN</td><td id="votes">156,241</td><td id="votes"> 35,616</td><td id="votes"> 41,497</td><td id="votes">  233,354</td></tr>
+<tr><td id="candidate">MOBLEY BENJAMIN</td><td id="votes"> 72,125</td><td id="votes"> 26,155</td><td id="votes"> 42,389</td><td id="votes">  140,669</td></tr>
+<tr><td id="candidate">EISENHOUR DAVID</td><td id="votes">  4,407</td><td id="votes">  1,449</td><td id="votes">  1,982</td><td id="votes">    7,838</td></tr>
+<tr><td id="total">Office Total</td><td id="votes2">  232,773</td><td id="votes2">   63,220</td><td id="votes2">   85,868</td><td id="votes2">    381,861</td></tr>
+<tr><td id="total">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td><td id="votes2">&nbsp;</td></tr>
+<tr><td id="dist-rptg">Districts Reported</td><td id="dist-tot">269 of 269</td><td id="dist-tot"> 90 of  90</td><td id="dist-tot"> 74 of  74</td><td id="dist-tot">433 of 433</td></tr>
+</table>
+<p><a href="/results/html/unofresl.shtml">Return To Main Elections Results Page</a></p>
+</div>
+<!-- END: MAIN BODY AREA -->
+</div>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<!-- PAGE UPDATED: Dynamically posts more recent modification date, happens automatically, please do not modify -->
+<div id="lastUpdated">
+Last Updated: Wednesday, 14-Nov-2012 08:45:59 EST
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!--googleoff: all-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" summary="This table is for layout purposes only" id="footerTable">
+	<tr>
+		<td class="silverBar"><img src="/images/spacer.gif" width="30" height="3" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td id="footerBar"> 
+<!-- Agency Specific Links -->
+			<a title="Agency Website Map" href="/sitemap.shtml" tabindex="25" accesskey="M">site&nbsp;map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a title="Agency Website Information" href="/aboutthissite.shtml" tabindex="26" accesskey="Y">about this site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+			<a title="Agency Contact Information" href="/contact.shtml" tabindex="27" accesskey="U">contact us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<!-- Required Links -->
+			<a title="Language Translation Options" href="http://www.delaware.gov/egov/portal.nsf/portal/translate" tabindex="28" accesskey="T">translate</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+			<a title="State of Delaware Web Portal" href="http://www.delaware.gov" tabindex="29" accesskey="W">delaware.gov</a>
+			<br>
+			<br>
+		</td>
+	</tr>
+</table>
+
+
+<!-- PAGE FOOTER: Tag above includes the sitefooter -->
+
+<!-- HEADER LAYERS: Tags above includes pieces of the global header, please do not modify the tags -->
+</body>
+</html>

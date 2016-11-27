@@ -1,0 +1,76 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "5", "precincts_reporting" : "4", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "3888", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "2164" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "1602" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "61" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "24" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "17" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "13" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "6" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "1" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "3647", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "2132" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "1509" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "6" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "3707", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "1879" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "1306" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "518" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "4" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 34", "contest_number" : "138", "total_votes" : "3569", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Catherine COOL RUMSEY", "party_code" : "DEM", "votes" : "2043" }, 
+    { "name" : "Francis T. MAHER, JR.", "party_code" : "REP", "votes" : "1523" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 38", "contest_number" : "180", "total_votes" : "2939", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Brian Patrick KENNEDY", "party_code" : "DEM", "votes" : "1987" }, 
+    { "name" : "Peter J. BONK", "party_code" : "IND", "votes" : "946" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "6" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 39", "contest_number" : "181", "total_votes" : "587", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Larry VALENCIA", "party_code" : "DEM", "votes" : "372" }, 
+    { "name" : "Clay P. JOHNSON", "party_code" : "REP", "votes" : "213" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "2" } ] },
+  { "name" : "TOWN CLERK TOWN OF HOPKINTON", "contest_number" : "300", "total_votes" : "2838", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Elizabeth J. COOK-MARTIN", "party_code" : "IND", "votes" : "2810" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "28" } ] },
+  { "name" : "TOWN COUNCIL TOWN OF HOPKINTON", "contest_number" : "301", "total_votes" : "13253", "votes_allowed" : "5", "candidates" : [
+    { "name" : "Sylvia K. THOMPSON", "party_code" : "DEM", "votes" : "2157" }, 
+    { "name" : "Barbara Ann CAPALBO", "party_code" : "IND", "votes" : "2102" }, 
+    { "name" : "Frank T. LANDOLFI", "party_code" : "IND", "votes" : "1919" }, 
+    { "name" : "David Floyd HUSBAND", "party_code" : "IND", "votes" : "1891" }, 
+    { "name" : "Scott Bill HIRST", "party_code" : "REP", "votes" : "1725" }, 
+    { "name" : "Richard Anthony VECCHIO", "party_code" : "IND", "votes" : "1711" }, 
+    { "name" : "Daniel BARUTI", "party_code" : "DEM", "votes" : "1688" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "60" } ] },
+  { "name" : "CHARIHO SCHOOL COMMITTEE TOWN OF HOPKINTON", "contest_number" : "302", "total_votes" : "2604", "votes_allowed" : "1", "candidates" : [
+    { "name" : "George M. ABBOTT", "party_code" : "REP", "votes" : "2512" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "92" } ] },
+  { "name" : "TOWN SERGEANT TOWN OF HOPKINTON", "contest_number" : "303", "total_votes" : "2601", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Elaine J. MORGAN", "party_code" : "REP", "votes" : "2563" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "38" } ] },
+  { "name" : "TOWN MODERATOR TOWN OF HOPKINTON", "contest_number" : "304", "total_votes" : "243", "votes_allowed" : "1", "candidates" : [
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "243" } ] },
+  { "name" : "DIRECTOR OF PUBLIC WELFARE TOWN OF HOPKINTON", "contest_number" : "305", "total_votes" : "194", "votes_allowed" : "1", "candidates" : [
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "194" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "3620", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "2117" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "1503" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "3592", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "2011" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "1581" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "3510", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "1905" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "1605" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "3536", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "2661" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "875" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "3451", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "2164" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "1287" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "3530", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "2351" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "1179" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "3547", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "1853" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "1694" }
+  ]}
+]}

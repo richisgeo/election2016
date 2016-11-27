@@ -1,0 +1,162 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "81", "precincts_reporting" : "80", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "51937", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "43617" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "7282" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "436" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "366" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "117" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "55" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "36" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "28" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "47265", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "40213" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "6924" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "128" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 1", "contest_number" : "103", "total_votes" : "27454", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David N. CICILLINE", "party_code" : "DEM", "votes" : "20800" }, 
+    { "name" : "Brendan P. DOHERTY", "party_code" : "REP", "votes" : "4925" }, 
+    { "name" : "David S. VOGEL", "party_code" : "IND", "votes" : "1656" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "73" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "19779", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "15299" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "3083" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "1351" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "46" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 1", "contest_number" : "105", "total_votes" : "6168", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Maryellen GOODWIN", "party_code" : "DEM", "votes" : "6048" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "120" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 2", "contest_number" : "106", "total_votes" : "6307", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Juan M. PICHARDO", "party_code" : "DEM", "votes" : "5132" }, 
+    { "name" : "Ramon A. PEREZ", "party_code" : "IND", "votes" : "715" }, 
+    { "name" : "Luis E. PIMENTEL", "party_code" : "IND", "votes" : "435" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "25" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 3", "contest_number" : "107", "total_votes" : "8728", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Gayle L. GOLDIN", "party_code" : "DEM", "votes" : "8437" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "291" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 4", "contest_number" : "108", "total_votes" : "3392", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Dominick J. RUGGERIO", "party_code" : "DEM", "votes" : "2430" }, 
+    { "name" : "John D. RICOTTILLI", "party_code" : "IND", "votes" : "752" }, 
+    { "name" : "Michael J. ROLLINS", "party_code" : "Lib", "votes" : "197" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "13" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 5", "contest_number" : "109", "total_votes" : "6398", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Paul V. JABOUR", "party_code" : "DEM", "votes" : "6240" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "158" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 6", "contest_number" : "110", "total_votes" : "6857", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Harold M. METTS", "party_code" : "DEM", "votes" : "6294" }, 
+    { "name" : "Russell C. HRYZAN", "party_code" : "REP", "votes" : "532" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "31" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 7", "contest_number" : "111", "total_votes" : "4878", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Frank A. CICCONE, III", "party_code" : "DEM", "votes" : "3888" }, 
+    { "name" : "Catherine E. GRAZIANO", "party_code" : "IND", "votes" : "975" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "15" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 28", "contest_number" : "132", "total_votes" : "241", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joshua MILLER", "party_code" : "DEM", "votes" : "220" }, 
+    { "name" : "Robert J. CLARKIN", "party_code" : "REP", "votes" : "21" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "0" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 1", "contest_number" : "143", "total_votes" : "3639", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Edith H. AJELLO", "party_code" : "DEM", "votes" : "2890" }, 
+    { "name" : "Francisco L. GONZALEZ", "party_code" : "IND", "votes" : "727" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "22" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 2", "contest_number" : "144", "total_votes" : "3259", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Christopher R. BLAZEJEWSKI", "party_code" : "DEM", "votes" : "3216" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "43" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 3", "contest_number" : "145", "total_votes" : "2973", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Thomas A. PALANGIO", "party_code" : "DEM", "votes" : "2710" }, 
+    { "name" : "Rufus Ricardo BAILEY, JR.", "party_code" : "REP", "votes" : "255" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "8" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 4", "contest_number" : "146", "total_votes" : "6215", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Gordon D. FOX", "party_code" : "DEM", "votes" : "3590" }, 
+    { "name" : "Mark BINDER", "party_code" : "IND", "votes" : "2595" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "30" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 5", "contest_number" : "147", "total_votes" : "3518", "votes_allowed" : "1", "candidates" : [
+    { "name" : "John J. DeSIMONE", "party_code" : "DEM", "votes" : "2615" }, 
+    { "name" : "Daniel J. GRZYCH", "party_code" : "IND", "votes" : "884" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "19" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 6", "contest_number" : "148", "total_votes" : "2790", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Raymond A. HULL", "party_code" : "DEM", "votes" : "2718" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "72" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 7", "contest_number" : "149", "total_votes" : "3433", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Maria E. CIMINI", "party_code" : "DEM", "votes" : "3366" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "67" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 8", "contest_number" : "150", "total_votes" : "2908", "votes_allowed" : "1", "candidates" : [
+    { "name" : "John Joseph LOMBARDI", "party_code" : "DEM", "votes" : "2794" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "114" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 9", "contest_number" : "151", "total_votes" : "2776", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Anastasia P. WILLIAMS", "party_code" : "DEM", "votes" : "2722" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "54" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 10", "contest_number" : "152", "total_votes" : "3202", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Scott A. SLATER", "party_code" : "DEM", "votes" : "2896" }, 
+    { "name" : "James M. ENTWISTLE", "party_code" : "REP", "votes" : "288" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "18" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 11", "contest_number" : "153", "total_votes" : "3644", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Grace DIAZ", "party_code" : "DEM", "votes" : "3372" }, 
+    { "name" : "Christian CHIRINO", "party_code" : "REP", "votes" : "261" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "11" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 12", "contest_number" : "154", "total_votes" : "2938", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Joseph S. ALMEIDA", "party_code" : "DEM", "votes" : "2915" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "23" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 13", "contest_number" : "155", "total_votes" : "2245", "votes_allowed" : "1", "candidates" : [
+    { "name" : "John M. CARNEVALE", "party_code" : "DEM", "votes" : "2202" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "43" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 14", "contest_number" : "156", "total_votes" : "333", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Charlene LIMA", "party_code" : "DEM", "votes" : "324" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "9" } ] },
+  { "name" : "COUNCIL PAWTUCKET DISTRICT 3", "contest_number" : "368", "total_votes" : "0", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Terrence E. MERCER", "party_code" : "DEM", "votes" : "0" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "0" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "41387", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "28923" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "12464" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "39648", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "25791" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "13857" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "40839", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "33421" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "7418" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "38649", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "31662" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "6987" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "40300", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "34886" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "5414" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "41817", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "34637" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "7180" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "41940", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "33855" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "8085" } ] },
+  { "name" : "QUESTION 8 - CITY OF PROVIDENCE", "contest_number" : "797", "total_votes" : "43637", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 YES", "party_code" : "NON", "votes" : "39055" }, 
+    { "name" : "Question 8 NO", "party_code" : "NON", "votes" : "4582" } ] },
+  { "name" : "QUESTION 9 - CITY OF PROVIDENCE", "contest_number" : "798", "total_votes" : "39244", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 YES", "party_code" : "NON", "votes" : "33672" }, 
+    { "name" : "Question 9 NO", "party_code" : "NON", "votes" : "5572" } ] },
+  { "name" : "QUESTION 10 - CITY OF PROVIDENCE", "contest_number" : "799", "total_votes" : "37932", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 10 YES", "party_code" : "NON", "votes" : "28565" }, 
+    { "name" : "Question 10 NO", "party_code" : "NON", "votes" : "9367" } ] },
+  { "name" : "QUESTION 11 - CITY OF PROVIDENCE", "contest_number" : "800", "total_votes" : "36977", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 11 YES", "party_code" : "NON", "votes" : "28900" }, 
+    { "name" : "Question 11 NO", "party_code" : "NON", "votes" : "8077" } ] },
+  { "name" : "QUESTION 12 - CITY OF PROVIDENCE", "contest_number" : "801", "total_votes" : "38007", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 12 YES", "party_code" : "NON", "votes" : "29030" }, 
+    { "name" : "Question 12 NO", "party_code" : "NON", "votes" : "8977" } ] },
+  { "name" : "QUESTION 13 - CITY OF PROVIDENCE", "contest_number" : "802", "total_votes" : "38429", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 13 YES", "party_code" : "NON", "votes" : "29608" }, 
+    { "name" : "Question 13 NO", "party_code" : "NON", "votes" : "8821" } ] },
+  { "name" : "QUESTION 14 - CITY OF PROVIDENCE", "contest_number" : "803", "total_votes" : "34008", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 14 YES", "party_code" : "NON", "votes" : "20313" }, 
+    { "name" : "Question 14 NO", "party_code" : "NON", "votes" : "13695" } ] },
+  { "name" : "QUESTION 15 - CITY OF PROVIDENCE", "contest_number" : "804", "total_votes" : "34076", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 15 YES", "party_code" : "NON", "votes" : "27684" }, 
+    { "name" : "Question 15 NO", "party_code" : "NON", "votes" : "6392" } ] },
+  { "name" : "QUESTION 16 - CITY OF PROVIDENCE", "contest_number" : "805", "total_votes" : "34069", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 16 YES", "party_code" : "NON", "votes" : "27373" }, 
+    { "name" : "Question 16 NO", "party_code" : "NON", "votes" : "6696" } ] },
+  { "name" : "QUESTION 17 - CITY OF PROVIDENCE", "contest_number" : "806", "total_votes" : "35063", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 17 YES", "party_code" : "NON", "votes" : "29685" }, 
+    { "name" : "Question 17 NO", "party_code" : "NON", "votes" : "5378" } ] },
+  { "name" : "QUESTION 18 - CITY OF PROVIDENCE", "contest_number" : "807", "total_votes" : "34064", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 18 YES", "party_code" : "NON", "votes" : "27947" }, 
+    { "name" : "Question 18 NO", "party_code" : "NON", "votes" : "6117" }
+  ]}
+]}

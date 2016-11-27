@@ -1,0 +1,90 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "11", "precincts_reporting" : "11", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "10267", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "6359" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "3707" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "105" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "51" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "36" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "5" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "3" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "1" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "9379", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "6109" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "3256" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "14" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 1", "contest_number" : "103", "total_votes" : "9743", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David N. CICILLINE", "party_code" : "DEM", "votes" : "4699" }, 
+    { "name" : "Brendan P. DOHERTY", "party_code" : "REP", "votes" : "4466" }, 
+    { "name" : "David S. VOGEL", "party_code" : "IND", "votes" : "571" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 10", "contest_number" : "114", "total_votes" : "3025", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Walter S. FELAG, JR.", "party_code" : "DEM", "votes" : "2988" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "37" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 11", "contest_number" : "115", "total_votes" : "1561", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Christopher Scott OTTIANO", "party_code" : "REP", "votes" : "1528" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "33" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 32", "contest_number" : "136", "total_votes" : "2307", "votes_allowed" : "1", "candidates" : [
+    { "name" : "David E. BATES", "party_code" : "REP", "votes" : "2253" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "54" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 68", "contest_number" : "210", "total_votes" : "4658", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Kenneth A. MARSHALL", "party_code" : "DEM", "votes" : "3000" }, 
+    { "name" : "Michael J. DONAHUE", "party_code" : "REP", "votes" : "1651" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 69", "contest_number" : "211", "total_votes" : "3934", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Raymond E. GALLISON, JR.", "party_code" : "DEM", "votes" : "3878" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "56" } ] },
+  { "name" : "TOWN ADMINISTRATOR TOWN OF BRISTOL", "contest_number" : "221", "total_votes" : "9383", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Antonio A. TEIXEIRA", "party_code" : "IND", "votes" : "6099" }, 
+    { "name" : "David E. BARBOZA", "party_code" : "DEM", "votes" : "3259" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "25" } ] },
+  { "name" : "TOWN CLERK TOWN OF BRISTOL", "contest_number" : "222", "total_votes" : "7517", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Louis P. CIRILLO", "party_code" : "REP", "votes" : "7429" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "88" } ] },
+  { "name" : "TOWN COUNCIL TOWN OF BRISTOL", "contest_number" : "223", "total_votes" : "41699", "votes_allowed" : "5", "candidates" : [
+    { "name" : "Mary A. PARELLA", "party_code" : "REP", "votes" : "4473" }, 
+    { "name" : "Halsey C. HERRESHOFF", "party_code" : "REP", "votes" : "4242" }, 
+    { "name" : "Nathan T. CALOURO", "party_code" : "DEM", "votes" : "4059" }, 
+    { "name" : "Edward P. STUART, JR.", "party_code" : "DEM", "votes" : "3972" }, 
+    { "name" : "Timothy Edward SWEENEY", "party_code" : "DEM", "votes" : "3567" }, 
+    { "name" : "Raymond CORDEIRO", "party_code" : "DEM", "votes" : "3426" }, 
+    { "name" : "Richard RUGGIERO", "party_code" : "DEM", "votes" : "3181" }, 
+    { "name" : "Diane B. CAMPBELL", "party_code" : "IND", "votes" : "2660" }, 
+    { "name" : "Michael J. CABRAL", "party_code" : "REP", "votes" : "2519" }, 
+    { "name" : "John FRANCIS, IV", "party_code" : "REP", "votes" : "2324" }, 
+    { "name" : "Anthony D. MURGO", "party_code" : "IND", "votes" : "2236" }, 
+    { "name" : "Ethan M. TUCKER", "party_code" : "IND", "votes" : "1747" }, 
+    { "name" : "Stephan BRIGIDI", "party_code" : "IND", "votes" : "1676" }, 
+    { "name" : "Hildeberto S. MOITOSO", "party_code" : "IND", "votes" : "1161" }, 
+    { "name" : "Gregory RAPOSA", "party_code" : "VF", "votes" : "409" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "47" } ] },
+  { "name" : "NON-PARTISAN REGIONAL SCHOOL COMMITTEE TOWN OF BRISTOL", "contest_number" : "224", "total_votes" : "16128", "votes_allowed" : "3", "candidates" : [
+    { "name" : "Karen Andreozzi LYNCH", "party_code" : "NON", "votes" : "5702" }, 
+    { "name" : "Marjorie J. McBRIDE", "party_code" : "NON", "votes" : "5319" }, 
+    { "name" : "Dessie L. WAINWRIGHT", "party_code" : "NON", "votes" : "5021" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "86" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "9308", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "6743" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "2565" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "9237", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "6432" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "2805" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "8971", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "5882" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "3089" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "9061", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "7202" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "1859" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "8829", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "6473" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "2356" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "8906", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "6255" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "2651" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "8929", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "5342" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "3587" } ] },
+  { "name" : "QUESTION 8 - TOWN OF BRISTOL", "contest_number" : "705", "total_votes" : "8851", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "6562" }, 
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "2289" }
+  ]}
+]}

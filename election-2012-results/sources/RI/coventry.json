@@ -1,0 +1,120 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "20", "precincts_reporting" : "19", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "16506", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "9122" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "6969" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "235" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "80" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "56" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "22" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "19" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "3" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "15620", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "9032" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "6548" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "40" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "16033", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "8566" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "6199" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "1254" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "14" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 21", "contest_number" : "125", "total_votes" : "4942", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Nicholas D. KETTLE", "party_code" : "REP", "votes" : "2478" }, 
+    { "name" : "Scott M. POLLARD", "party_code" : "DEM", "votes" : "2463" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 33", "contest_number" : "137", "total_votes" : "10876", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Leonidas P. RAPTAKIS", "party_code" : "DEM", "votes" : "6763" }, 
+    { "name" : "Glenford J. SHIBLEY", "party_code" : "REP", "votes" : "4081" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "32" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 25", "contest_number" : "167", "total_votes" : "908", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Jared R. NUNES", "party_code" : "DEM", "votes" : "888" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "20" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 26", "contest_number" : "168", "total_votes" : "1381", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Patricia L. MORGAN", "party_code" : "REP", "votes" : "781" }, 
+    { "name" : "Nicholas A. DENICE", "party_code" : "DEM", "votes" : "595" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "5" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 27", "contest_number" : "169", "total_votes" : "904", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Patricia A. SERPA", "party_code" : "DEM", "votes" : "600" }, 
+    { "name" : "Kyle S. PENDOLA", "party_code" : "REP", "votes" : "304" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "0" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 28", "contest_number" : "170", "total_votes" : "6588", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Scott J. GUTHRIE", "party_code" : "DEM", "votes" : "3930" }, 
+    { "name" : "Carl L. MATTSON, JR.", "party_code" : "REP", "votes" : "2646" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "12" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 29", "contest_number" : "171", "total_votes" : "4390", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Lisa P. TOMASSO", "party_code" : "DEM", "votes" : "2694" }, 
+    { "name" : "Keith W. ANDERSON", "party_code" : "REP", "votes" : "1690" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "6" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 40", "contest_number" : "182", "total_votes" : "1334", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Michael W. CHIPPENDALE", "party_code" : "REP", "votes" : "724" }, 
+    { "name" : "Lauri A. ARCHAMBAULT", "party_code" : "DEM", "votes" : "608" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "2" } ] },
+  { "name" : "NON-PARTISAN TOWN COUNCIL COVENTRY DISTRICT 1", "contest_number" : "231", "total_votes" : "2852", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Karen M. CARLSON", "party_code" : "NON", "votes" : "1877" }, 
+    { "name" : "Thomas A. HETHERMAN", "party_code" : "NON", "votes" : "966" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "9" } ] },
+  { "name" : "NON-PARTISAN TOWN COUNCIL COVENTRY DISTRICT 4", "contest_number" : "232", "total_votes" : "2626", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Gary P. COTE", "party_code" : "NON", "votes" : "1441" }, 
+    { "name" : "Richard L. POLSELLI", "party_code" : "NON", "votes" : "1178" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "NON-PARTISAN TOWN COUNCIL COVENTRY DISTRICT 2", "contest_number" : "233", "total_votes" : "2621", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Gregory LABOISSONNIERE", "party_code" : "NON", "votes" : "1407" }, 
+    { "name" : "R. David JERVIS", "party_code" : "NON", "votes" : "1204" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "10" } ] },
+  { "name" : "NON-PARTISAN TOWN COUNCIL COVENTRY DISTRICT 3", "contest_number" : "234", "total_votes" : "2127", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Kerry L. McGEE", "party_code" : "NON", "votes" : "2074" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "53" } ] },
+  { "name" : "NON-PARTISAN TOWN COUNCIL COVENTRY DISTRICT 5", "contest_number" : "235", "total_votes" : "3051", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Thaddeus JENDZEJEC", "party_code" : "NON", "votes" : "1917" }, 
+    { "name" : "John J. MULLANEY, III", "party_code" : "NON", "votes" : "1118" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "16" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE COVENTRY DISTRICT 3", "contest_number" : "236", "total_votes" : "1944", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Frank HYDE", "party_code" : "NON", "votes" : "1882" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "62" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE COVENTRY DISTRICT 1", "contest_number" : "237", "total_votes" : "2769", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Ann M. DICKSON", "party_code" : "NON", "votes" : "1887" }, 
+    { "name" : "David T. TATE", "party_code" : "NON", "votes" : "875" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "7" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE COVENTRY DISTRICT 4", "contest_number" : "238", "total_votes" : "2106", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Nancy E. SPRENGELMEYER", "party_code" : "NON", "votes" : "2054" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "52" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "15683", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "11283" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "4400" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "15560", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "10597" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "4963" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "15247", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "8749" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "6498" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "15228", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "11485" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "3743" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "15108", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "9795" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "5313" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "15231", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "9467" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "5764" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "15372", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "8367" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "7005" } ] },
+  { "name" : "QUESTION 8 - TOWN OF COVENTRY", "contest_number" : "725", "total_votes" : "15786", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "9770" }, 
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "6016" } ] },
+  { "name" : "QUESTION 9 - TOWN OF COVENTRY", "contest_number" : "726", "total_votes" : "15783", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 APPROVE", "party_code" : "NON", "votes" : "11313" }, 
+    { "name" : "Question 9 REJECT", "party_code" : "NON", "votes" : "4470" } ] },
+  { "name" : "QUESTION 10 - TOWN OF COVENTRY", "contest_number" : "727", "total_votes" : "15766", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 10 APPROVE", "party_code" : "NON", "votes" : "11358" }, 
+    { "name" : "Question 10 REJECT", "party_code" : "NON", "votes" : "4408" } ] },
+  { "name" : "QUESTION 11 - TOWN OF COVENTRY", "contest_number" : "728", "total_votes" : "15808", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 11 APPROVE", "party_code" : "NON", "votes" : "8642" }, 
+    { "name" : "Question 11 REJECT", "party_code" : "NON", "votes" : "7166" } ] },
+  { "name" : "QUESTION 12 - TOWN OF COVENTRY", "contest_number" : "729", "total_votes" : "15747", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 12 APPROVE", "party_code" : "NON", "votes" : "10101" }, 
+    { "name" : "Question 12 REJECT", "party_code" : "NON", "votes" : "5646" } ] },
+  { "name" : "QUESTION 13 - TOWN OF COVENTRY", "contest_number" : "730", "total_votes" : "15730", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 13 APPROVE", "party_code" : "NON", "votes" : "8566" }, 
+    { "name" : "Question 13 REJECT", "party_code" : "NON", "votes" : "7164" }
+  ]}
+]}

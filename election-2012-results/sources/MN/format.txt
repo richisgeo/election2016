@@ -1,0 +1,168 @@
+Office of the Secretary of State
+--------------------------------
+
+The files on this web and ftp sites contain ASCII text, separated by semicolons. 
+Note that the information contained in these files is subject to correction and change up until election day.
+
+
+--------------------------------------------
+Election Results Files
+--------------------------------------------
+
+Election Results files contain the following data:
+
+	State
+	County ID
+	Precinct Number (when applicable)
+	Office ID
+	Office Name 
+	District or municipal FIPS code (when applicable) 
+	Candidate ID
+	Candidate Name (First/Last/Suffix all in one field)
+	Suffix (not used)
+	Incumbent Code (not used)
+	Party ID 
+	Precincts reporting
+	Total number of Precincts in state, county, or voting for the office
+	Votes for Candidate
+	Percentage of votes for Candidate by Office
+	Total number of Votes for Office
+
+Note:  The district field is used for congressional, senate, and legislative districts; school district numbers, city FIPS codes, and hospital district codes.
+(Not used for wards, commissioner, or other districts.) 
+
+--------------------------------------------
+Election Results Recount Files
+--------------------------------------------
+                State
+                County ID
+                Precinct Number (when applicable)
+                Office ID
+                Office Name 
+                Candidate ID
+                Candidate Name (First/Last/Suffix all in one field)
+                Party ID 
+                Precincts reporting
+                Total number of Precincts in state, county, or voting for the Office
+                Votes for Candidate
+                Recount Votes for Candidate
+                Percentage of Recount votes for Candidate by Office
+                Total number of Votes for Office
+                Number of Challenged Ballots
+
+
+--------------------------------------------
+Supporting Tables for Election
+--------------------------------------------
+
+Federal, State, and County Candidate file (CandTbl.txt)
+
+	Candidate ID (eight characters)
+	Candidate Name (First/Last/Suffix all in one field)
+	Office ID (first four characters of Candidate ID)
+	Office Title
+	County ID (88 = statewide race or multi-county race)
+	Party ID
+	Party Abbreviation
+
+--------------------------------------------
+
+Municipal and School District Candidate file (LocalCandTbl.txt)
+
+	Candidate ID (thirteen characters) 
+	Candidate Name (First/Last/Suffix all in one field)
+	Office ID (also sixth through ninth characters of Candidate ID)
+	Office Title
+	County ID (88 = statewide or multi-county race)
+	MCD code (uses FIPS statewide unique codes, not county MCDs; also first five characters of candidate ID, if applicable)  
+	School District (also first five characters of candidate ID, if applicable)  
+
+Note: Party is omitted since all local candidates are non-partisan.
+
+--------------------------------------------
+
+Municipal and School District Candidate with Address Information file (LocalCandDetails.txt)
+
+	Candidate ID (thirteen characters) 
+	Candidate Name (First/Last/Suffix all in one field)
+	Office ID (also sixth through ninth characters of Candidate ID)
+	Office Title 
+	County ID (88 = statewide or multi-county race)
+	MCD code (if applicable, uses FIPS statewide unique codes, not county MCDs; also first five characters of candidate ID) 
+	School District (if applicable, also first five characters of candidate ID)
+	Residence Street Address
+	Residence City
+	Residence State
+	Residence Zip
+	Campaign Address 
+	Campaign City
+	Campaign State
+	Campaign Zip	
+	Campaign Phone
+	Campaign Website
+	Campaign Email
+
+Note: Party is omitted since all local candidates are non-partisan.
+
+--------------------------------------------
+	
+Counties Table (CntyTbl.txt)
+
+	County ID
+	County Name
+	Number of precincts
+
+--------------------------------------------
+
+Precincts Table (PrctTbl.txt)
+
+	County ID
+	Precinct ID 
+	Precinct Name
+	Congressional District 
+	Legislative District 
+	County Commissioner District 
+	Judicial District 
+	Soil and Water District 
+	MCD code (uses FIPS statewide unique codes, not county MCDs)
+	School District Number (school district reporting precincts only)	
+
+Note: School Districts may establish school district reporting precincts for elections not held with city, county, or state elections.
+School district precincts do not contain associated congressional, legislative, county commissioner, MCD, or other election districts.          
+
+--------------------------------------------
+
+Municipalities Table (mcdtbl.txt)
+
+	County ID
+	County Name
+	MCD code (using FIPS statewide unique codes, not county MCDs)
+	Municipality Name
+
+--------------------------------------------
+School Districts Table (SchoolDistTbl.txt)
+
+	School District Number
+	School District Name
+	County ID (County for school district)
+	County Name (County for school district)
+
+--------------------------------------------
+Ballot Questions Text (BallotQuestions.txt)
+
+	County ID 
+	Office Code
+	MCD code, if applicable (using FIPS statewide unique codes, not county MCDs)
+	School District Number, if applicable
+	Ballot Question Number
+	Question Title
+	Question Body
+ 
+--------------------------------------------
+Parties table (PartyTbl.txt)
+
+	Party Abbreviation
+	Party Name 
+	Party ID 
+
+Note: The party table also includes codes for write-in and non-partisan.

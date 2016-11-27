@@ -1,0 +1,92 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "11", "precincts_reporting" : "11", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "14681", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "7847" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "6451" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "195" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "99" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "50" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "20" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "13" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "6" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "14000", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "7708" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "6249" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "43" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "14255", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "6747" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "5885" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "1614" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "9" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 35", "contest_number" : "139", "total_votes" : "3157", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Dawson Tucker HODGSON", "party_code" : "REP", "votes" : "2043" }, 
+    { "name" : "Winters B. HAMES, III", "party_code" : "DEM", "votes" : "1108" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "6" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 36", "contest_number" : "140", "total_votes" : "10712", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James C. SHEEHAN", "party_code" : "DEM", "votes" : "6377" }, 
+    { "name" : "Mariacristina C. McKENDALL", "party_code" : "REP", "votes" : "4304" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "31" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 31", "contest_number" : "173", "total_votes" : "6364", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Doreen Marie COSTA", "party_code" : "REP", "votes" : "3353" }, 
+    { "name" : "Steven CAMPO", "party_code" : "DEM", "votes" : "3000" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "11" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 32", "contest_number" : "174", "total_votes" : "7532", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Robert E. CRAVEN, SR.", "party_code" : "DEM", "votes" : "4067" }, 
+    { "name" : "Laurence W. EHRHARDT", "party_code" : "REP", "votes" : "3440" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "25" } ] },
+  { "name" : "TOWN COUNCIL TOWN OF NORTH KINGSTOWN", "contest_number" : "352", "total_votes" : "61531", "votes_allowed" : "5", "candidates" : [
+    { "name" : "Elizabeth S. DOLAN", "party_code" : "REP", "votes" : "5950" }, 
+    { "name" : "Kerry P. McKAY", "party_code" : "REP", "votes" : "5690" }, 
+    { "name" : "Kevin V. MALONEY", "party_code" : "IND", "votes" : "5051" }, 
+    { "name" : "Richard A. WELCH", "party_code" : "DEM", "votes" : "4928" }, 
+    { "name" : "Carol H. HUESTON", "party_code" : "REP", "votes" : "4897" }, 
+    { "name" : "Colin Michael O&#39;SULLIVAN", "party_code" : "IND", "votes" : "4727" }, 
+    { "name" : "Michael S. BESTWICK", "party_code" : "DEM", "votes" : "4493" }, 
+    { "name" : "Tracey A. McCUE", "party_code" : "DEM", "votes" : "4350" }, 
+    { "name" : "Mark L. HAWKINS", "party_code" : "REP", "votes" : "4166" }, 
+    { "name" : "Brent R. CLEAVELAND", "party_code" : "REP", "votes" : "3908" }, 
+    { "name" : "Rickey L. THOMPSON", "party_code" : "IND", "votes" : "3851" }, 
+    { "name" : "Donald A. SOUZA, JR.", "party_code" : "DEM", "votes" : "3593" }, 
+    { "name" : "Richard E. LAMERE", "party_code" : "IND", "votes" : "3425" }, 
+    { "name" : "Dorman J. HAYES, JR.", "party_code" : "IND", "votes" : "2414" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "88" } ] },
+  { "name" : "SCHOOL COMMITTEE TOWN OF NORTH KINGSTOWN", "contest_number" : "353", "total_votes" : "31410", "votes_allowed" : "3", "candidates" : [
+    { "name" : "Cheryl A. CLARKIN", "party_code" : "IND", "votes" : "9209" }, 
+    { "name" : "Robert S. JONES", "party_code" : "REP", "votes" : "7941" }, 
+    { "name" : "Lynda AVANZATO", "party_code" : "DEM", "votes" : "7150" }, 
+    { "name" : "Augustine A. MANOCCHIA, JR.", "party_code" : "REP", "votes" : "6975" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "135" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "14131", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "9286" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "4845" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "14086", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "8918" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "5168" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "13772", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "8408" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "5364" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "13719", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "9904" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "3815" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "13741", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "10119" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "3622" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "13848", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "9634" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "4214" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "13869", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "7276" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "6593" } ] },
+  { "name" : "QUESTION 8 - TOWN OF NORTH KINGSTOWN", "contest_number" : "761", "total_votes" : "13744", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 YES", "party_code" : "NON", "votes" : "11464" }, 
+    { "name" : "Question 8 NO", "party_code" : "NON", "votes" : "2280" } ] },
+  { "name" : "QUESTION 9 - TOWN OF NORTH KINGSTOWN", "contest_number" : "762", "total_votes" : "13375", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 YES", "party_code" : "NON", "votes" : "9454" }, 
+    { "name" : "Question 9 NO", "party_code" : "NON", "votes" : "3921" } ] },
+  { "name" : "QUESTION 10 - TOWN OF NORTH KINGSTOWN", "contest_number" : "763", "total_votes" : "13704", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 10 YES", "party_code" : "NON", "votes" : "7604" }, 
+    { "name" : "Question 10 NO", "party_code" : "NON", "votes" : "6100" } ] },
+  { "name" : "QUESTION 11 - TOWN OF NORTH KINGSTOWN", "contest_number" : "764", "total_votes" : "13347", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 11 YES", "party_code" : "NON", "votes" : "9669" }, 
+    { "name" : "Question 11 NO", "party_code" : "NON", "votes" : "3678" }
+  ]}
+]}

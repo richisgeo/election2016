@@ -1,0 +1,92 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "3", "precincts_reporting" : "2", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "972", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "666" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "276" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "15" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "8" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "4" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "2" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "1" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "0" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "924", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "668" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "255" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "952", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "594" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "227" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "131" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "0" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 37", "contest_number" : "141", "total_votes" : "941", "votes_allowed" : "1", "candidates" : [
+    { "name" : "V. Susan SOSNOWSKI", "party_code" : "DEM", "votes" : "722" }, 
+    { "name" : "John F. LINDHOLM", "party_code" : "REP", "votes" : "218" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 36", "contest_number" : "178", "total_votes" : "926", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Donna M. WALSH", "party_code" : "DEM", "votes" : "639" }, 
+    { "name" : "Tina B. JACKSON", "party_code" : "REP", "votes" : "195" }, 
+    { "name" : "Kevin W. PRESCOTT", "party_code" : "IND", "votes" : "91" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "MODERATOR TOWN OF NEW SHOREHAM", "contest_number" : "342", "total_votes" : "942", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Margaret M. O&#39;NEILL", "party_code" : "DEM", "votes" : "527" }, 
+    { "name" : "Christopher J. BLANE", "party_code" : "REP", "votes" : "214" }, 
+    { "name" : "Frederick C. LEEDER, III", "party_code" : "IND", "votes" : "200" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "ASSISTANT MODERATOR TOWN OF NEW SHOREHAM", "contest_number" : "343", "total_votes" : "822", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Martha A. BALL", "party_code" : "DEM", "votes" : "804" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "18" } ] },
+  { "name" : "FIRST WARDEN TOWN OF NEW SHOREHAM", "contest_number" : "344", "total_votes" : "921", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Kimberley H. GAFFETT", "party_code" : "IND", "votes" : "514" }, 
+    { "name" : "Howell T. CONANT, II", "party_code" : "IND", "votes" : "402" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "5" } ] },
+  { "name" : "SECOND WARDEN TOWN OF NEW SHOREHAM", "contest_number" : "345", "total_votes" : "772", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Kenneth C. LACOSTE", "party_code" : "REP", "votes" : "745" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "27" } ] },
+  { "name" : "TOWN COUNCIL TOWN OF NEW SHOREHAM", "contest_number" : "346", "total_votes" : "2572", "votes_allowed" : "3", "candidates" : [
+    { "name" : "F. Norris PIKE", "party_code" : "DEM", "votes" : "598" }, 
+    { "name" : "Christopher G. WARFEL", "party_code" : "IND", "votes" : "483" }, 
+    { "name" : "Sean J. McGARRY", "party_code" : "DEM", "votes" : "466" }, 
+    { "name" : "William John McKERNAN", "party_code" : "REP", "votes" : "382" }, 
+    { "name" : "Leslie Dodge SLATE", "party_code" : "IND", "votes" : "331" }, 
+    { "name" : "William T. MOONEY", "party_code" : "REP", "votes" : "300" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "12" } ] },
+  { "name" : "TOWN SERGEANT TOWN OF NEW SHOREHAM", "contest_number" : "347", "total_votes" : "887", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Vincent J. McALOON", "party_code" : "DEM", "votes" : "881" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "6" } ] },
+  { "name" : "TAX ASSESSOR TOWN OF NEW SHOREHAM", "contest_number" : "348", "total_votes" : "825", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Cynthia May GEER", "party_code" : "REP", "votes" : "822" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "NON-PARTISAN SCHOOL COMMITTEE TOWN OF NEW SHOREHAM", "contest_number" : "349", "total_votes" : "2160", "votes_allowed" : "3", "candidates" : [
+    { "name" : "Ann HALL", "party_code" : "NON", "votes" : "777" }, 
+    { "name" : "William B. PADIEN", "party_code" : "NON", "votes" : "711" }, 
+    { "name" : "Christopher A. WILLI", "party_code" : "NON", "votes" : "646" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "26" } ] },
+  { "name" : "NON-PARTISAN LAND TRUST TRUSTEE TOWN OF NEW SHOREHAM", "contest_number" : "350", "total_votes" : "1479", "votes_allowed" : "2", "candidates" : [
+    { "name" : "Wendy L. CRAWFORD", "party_code" : "NON", "votes" : "752" }, 
+    { "name" : "H. Dennis HEINZ", "party_code" : "NON", "votes" : "714" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "13" } ] },
+  { "name" : "NON-PARTISAN BLOCK ISLAND HOUSING BOARD", "contest_number" : "351", "total_votes" : "885", "votes_allowed" : "2", "candidates" : [
+    { "name" : "Kathryn F. McMANUS", "party_code" : "NON", "votes" : "741" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "144" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "905", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "472" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "433" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "907", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "458" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "449" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "910", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "663" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "247" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "899", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "757" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "142" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "895", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "721" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "174" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "907", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "735" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "172" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "906", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "648" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "258" }
+  ]}
+]}

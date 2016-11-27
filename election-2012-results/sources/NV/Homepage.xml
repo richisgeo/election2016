@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HomepageResults>
+  <FeaturedItem Rank="1">
+    <NVMap>
+      <NVCounty Name="Carson City" Party="REP" />
+      <NVCounty Name="Churchill" Party="REP" />
+      <NVCounty Name="Clark" Party="DEM" />
+      <NVCounty Name="Douglas" Party="REP" />
+      <NVCounty Name="Elko" Party="REP" />
+      <NVCounty Name="Esmeralda" Party="REP" />
+      <NVCounty Name="Eureka" Party="REP" />
+      <NVCounty Name="Humboldt" Party="REP" />
+      <NVCounty Name="Lander" Party="REP" />
+      <NVCounty Name="Lincoln" Party="REP" />
+      <NVCounty Name="Lyon" Party="REP" />
+      <NVCounty Name="Mineral" Party="REP" />
+      <NVCounty Name="Nye" Party="REP" />
+      <NVCounty Name="Pershing" Party="REP" />
+      <NVCounty Name="Storey" Party="REP" />
+      <NVCounty Name="Washoe" Party="DEM" />
+      <NVCounty Name="White Pine" Party="REP" />
+    </NVMap>
+    <PrecinctsReported Total="1,811" Reported="1,811" Percent="100.00" ReportedTime="11/27/2012 11:46:01 AM" />
+    <Race RaceID="1" RaceTitle="President and Vice President of the United States">
+      <Candidate CandidateID="3172" CandidateName="Obama, Barack" IsIncumbent="False" Party="DEM" Votes="531,373" Percent="52.36" WinMargin="6.68" CarsonCityVotes="10,291" ChurchillVotes="2,961" ClarkVotes="389,936" DouglasVotes="9,297" ElkoVotes="3,511" EsmeraldaVotes="92" EurekaVotes="107" HumboldtVotes="1,737" LanderVotes="534" LincolnVotes="400" LyonVotes="7,380" MineralVotes="863" NyeVotes="6,320" PershingVotes="632" StoreyVotes="920" WashoeVotes="95,409" WhitePineVotes="983" IsWinner="Yes" />
+      <Candidate CandidateID="5374" CandidateName="Romney, Mitt" IsIncumbent="False" Party="REP" Votes="463,567" Percent="45.68" WinMargin="0" CarsonCityVotes="12,394" ChurchillVotes="7,061" ClarkVotes="289,053" DouglasVotes="16,276" ElkoVotes="12,014" EsmeraldaVotes="317" EurekaVotes="663" HumboldtVotes="3,810" LanderVotes="1,580" LincolnVotes="1,691" LyonVotes="13,520" MineralVotes="1,080" NyeVotes="10,566" PershingVotes="1,167" StoreyVotes="1,321" WashoeVotes="88,453" WhitePineVotes="2,601" IsWinner="No" />
+      <Candidate CandidateID="5373" CandidateName="JOHNSON, GARY" IsIncumbent="False" Party="LIB" Votes="10,968" Percent="1.08" WinMargin="0" CarsonCityVotes="286" ChurchillVotes="84" ClarkVotes="7,064" DouglasVotes="275" ElkoVotes="174" EsmeraldaVotes="14" EurekaVotes="9" HumboldtVotes="61" LanderVotes="11" LincolnVotes="22" LyonVotes="235" MineralVotes="20" NyeVotes="279" PershingVotes="25" StoreyVotes="41" WashoeVotes="2,332" WhitePineVotes="36" IsWinner="No" />
+      <Candidate CandidateID="-1" CandidateName="None of these Candidates" IsIncumbent="False" Party="" Votes="5,770" Percent="0.57" WinMargin="0" CarsonCityVotes="212" ChurchillVotes="83" ClarkVotes="3,447" DouglasVotes="154" ElkoVotes="140" EsmeraldaVotes="3" EurekaVotes="19" HumboldtVotes="80" LanderVotes="17" LincolnVotes="14" LyonVotes="168" MineralVotes="39" NyeVotes="185" PershingVotes="30" StoreyVotes="15" WashoeVotes="1,121" WhitePineVotes="43" IsWinner="No" />
+      <Candidate CandidateID="5372" CandidateName="GOODE, VIRGIL" IsIncumbent="False" Party="IAP" Votes="3,240" Percent="0.32" WinMargin="0" CarsonCityVotes="136" ChurchillVotes="76" ClarkVotes="1,690" DouglasVotes="73" ElkoVotes="147" EsmeraldaVotes="9" EurekaVotes="10" HumboldtVotes="56" LanderVotes="23" LincolnVotes="25" LyonVotes="162" MineralVotes="33" NyeVotes="172" PershingVotes="30" StoreyVotes="17" WashoeVotes="540" WhitePineVotes="41" IsWinner="No" />
+    </Race>
+    <RaceTopTwo RaceID="1" RaceTitle="President and Vice President of the United States" UIPageTitle="NVOther">
+      <CandidateTopTwo CandidateID="3172" CandidateName="Obama, Barack" IsIncumbent="False" Party="DEM" Votes="531,373" Percent="52.36" WinMargin="6.68" CarsonCityVotes="10,291" ChurchillVotes="2,961" ClarkVotes="389,936" DouglasVotes="9,297" ElkoVotes="3,511" EsmeraldaVotes="92" EurekaVotes="107" HumboldtVotes="1,737" LanderVotes="534" LincolnVotes="400" LyonVotes="7,380" MineralVotes="863" NyeVotes="6,320" PershingVotes="632" StoreyVotes="920" WashoeVotes="95,409" WhitePineVotes="983" IsWinner="Yes" />
+      <CandidateTopTwo CandidateID="5374" CandidateName="Romney, Mitt" IsIncumbent="False" Party="REP" Votes="463,567" Percent="45.68" WinMargin="0" CarsonCityVotes="12,394" ChurchillVotes="7,061" ClarkVotes="289,053" DouglasVotes="16,276" ElkoVotes="12,014" EsmeraldaVotes="317" EurekaVotes="663" HumboldtVotes="3,810" LanderVotes="1,580" LincolnVotes="1,691" LyonVotes="13,520" MineralVotes="1,080" NyeVotes="10,566" PershingVotes="1,167" StoreyVotes="1,321" WashoeVotes="88,453" WhitePineVotes="2,601" IsWinner="No" />
+    </RaceTopTwo>
+  </FeaturedItem>
+  <FeaturedItem Rank="2">
+    <RaceTopTwo RaceID="2" RaceTitle="United States Senator" UIPageTitle="USSenate">
+      <CandidateTopTwo CandidateID="5375" CandidateName="Berkley, Shelley" IsIncumbent="False" Party="DEM" Votes="446,080" Percent="44.71" WinMargin="0" CarsonCityVotes="7,510" ChurchillVotes="2,013" ClarkVotes="338,629" DouglasVotes="6,952" ElkoVotes="2,653" EsmeraldaVotes="62" EurekaVotes="87" HumboldtVotes="1,124" LanderVotes="361" LincolnVotes="347" LyonVotes="5,404" MineralVotes="612" NyeVotes="5,267" PershingVotes="396" StoreyVotes="673" WashoeVotes="73,164" WhitePineVotes="826" IsWinner="No" />
+      <CandidateTopTwo CandidateID="5376" CandidateName="Heller, Dean" IsIncumbent="False" Party="REP" Votes="457,656" Percent="45.87" WinMargin="1.16" CarsonCityVotes="13,488" ChurchillVotes="7,069" ClarkVotes="277,459" DouglasVotes="16,644" ElkoVotes="11,840" EsmeraldaVotes="308" EurekaVotes="636" HumboldtVotes="3,876" LanderVotes="1,567" LincolnVotes="1,532" LyonVotes="13,703" MineralVotes="1,059" NyeVotes="9,561" PershingVotes="1,194" StoreyVotes="1,375" WashoeVotes="93,778" WhitePineVotes="2,567" IsWinner="Yes" />
+    </RaceTopTwo>
+  </FeaturedItem>
+  <FeaturedItem Rank="3">
+    <RaceTopTwo RaceID="5" RaceTitle="U.S. Representative, District 3" District="3" UIPageTitle="USCongress">
+      <CandidateTopTwo CandidateID="4255" CandidateName="Heck, Joe" IsIncumbent="False" Party="REP" Votes="137,244" Percent="50.36" WinMargin="7.49" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="137,244" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="N/A" WhitePineVotes="N/A" IsWinner="Yes" />
+      <CandidateTopTwo CandidateID="5658" CandidateName="Oceguera, John" IsIncumbent="False" Party="DEM" Votes="116,823" Percent="42.87" WinMargin="0" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="116,823" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="N/A" WhitePineVotes="N/A" IsWinner="No" />
+    </RaceTopTwo>
+  </FeaturedItem>
+  <FeaturedItem Rank="4">
+    <RaceTopTwo RaceID="1924" RaceTitle="State Senate, District 15" District="15" UIPageTitle="NVSenate">
+      <CandidateTopTwo CandidateID="5587" CandidateName="Brower, Greg" IsIncumbent="False" Party="REP" Votes="29,352" Percent="50.23" WinMargin="0.46" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="N/A" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="29,352" WhitePineVotes="N/A" IsWinner="Yes" />
+      <CandidateTopTwo CandidateID="5588" CandidateName="Leslie, Sheila" IsIncumbent="False" Party="DEM" Votes="29,086" Percent="49.77" WinMargin="0" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="N/A" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="29,086" WhitePineVotes="N/A" IsWinner="No" />
+    </RaceTopTwo>
+  </FeaturedItem>
+  <FeaturedItem Rank="5">
+    <RaceTopTwo RaceID="1906" RaceTitle="State Senate, District 9" District="9" UIPageTitle="NVSenate">
+      <CandidateTopTwo CandidateID="5732" CandidateName="Jones, Justin C." IsIncumbent="False" Party="DEM" Votes="21,849" Percent="50.35" WinMargin="0.70" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="21,849" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="N/A" WhitePineVotes="N/A" IsWinner="Yes" />
+      <CandidateTopTwo CandidateID="5733" CandidateName="St. Martin, Mari Nakashima" IsIncumbent="False" Party="REP" Votes="21,548" Percent="49.65" WinMargin="0" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="21,548" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="N/A" WhitePineVotes="N/A" IsWinner="No" />
+    </RaceTopTwo>
+  </FeaturedItem>
+  <FeaturedItem Rank="6">
+    <RaceTopTwo RaceID="1894" RaceTitle="State Senate, District 5" District="5" UIPageTitle="NVSenate">
+      <CandidateTopTwo CandidateID="5665" CandidateName="Kirk, Steve" IsIncumbent="False" Party="REP" Votes="24,524" Percent="48.04" WinMargin="0" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="24,524" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="N/A" WhitePineVotes="N/A" IsWinner="No" />
+      <CandidateTopTwo CandidateID="5666" CandidateName="Woodhouse, Joyce" IsIncumbent="False" Party="DEM" Votes="26,520" Percent="51.96" WinMargin="3.92" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="26,520" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="N/A" WhitePineVotes="N/A" IsWinner="Yes" />
+    </RaceTopTwo>
+  </FeaturedItem>
+  <FeaturedItem Rank="7">
+    <RaceTopTwo RaceID="1897" RaceTitle="State Senate, District 6" District="6" UIPageTitle="NVSenate">
+      <CandidateTopTwo CandidateID="5667" CandidateName="Hutchison, Mark" IsIncumbent="False" Party="REP" Votes="27,499" Percent="50.83" WinMargin="1.66" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="27,499" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="N/A" WhitePineVotes="N/A" IsWinner="Yes" />
+      <CandidateTopTwo CandidateID="5668" CandidateName="Yerushalmi, Benny" IsIncumbent="False" Party="DEM" Votes="26,598" Percent="49.17" WinMargin="0" CarsonCityVotes="N/A" ChurchillVotes="N/A" ClarkVotes="26,598" DouglasVotes="N/A" ElkoVotes="N/A" EsmeraldaVotes="N/A" EurekaVotes="N/A" HumboldtVotes="N/A" LanderVotes="N/A" LincolnVotes="N/A" LyonVotes="N/A" MineralVotes="N/A" NyeVotes="N/A" PershingVotes="N/A" StoreyVotes="N/A" WashoeVotes="N/A" WhitePineVotes="N/A" IsWinner="No" />
+    </RaceTopTwo>
+  </FeaturedItem>
+</HomepageResults>

@@ -1,0 +1,97 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "6", "precincts_reporting" : "6", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "4177", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "2445" }, 
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "1616" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "50" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "31" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "27" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "5" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "2" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "1" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "3939", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "2320" }, 
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "1611" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "8" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "4021", "votes_allowed" : "1", "candidates" : [
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "1970" }, 
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "1396" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "654" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 34", "contest_number" : "138", "total_votes" : "2106", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Catherine COOL RUMSEY", "party_code" : "DEM", "votes" : "1307" }, 
+    { "name" : "Francis T. MAHER, JR.", "party_code" : "REP", "votes" : "797" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "2" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 38", "contest_number" : "142", "total_votes" : "1263", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Dennis L. ALGIERE", "party_code" : "REP", "votes" : "1235" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "28" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 36", "contest_number" : "178", "total_votes" : "3945", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Donna M. WALSH", "party_code" : "DEM", "votes" : "2547" }, 
+    { "name" : "Tina B. JACKSON", "party_code" : "REP", "votes" : "1010" }, 
+    { "name" : "Kevin W. PRESCOTT", "party_code" : "IND", "votes" : "385" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "TOWN MODERATOR TOWN OF CHARLESTOWN", "contest_number" : "227", "total_votes" : "3061", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Henry A. WALSH", "party_code" : "DEM", "votes" : "2992" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "69" } ] },
+  { "name" : "TOWN COUNCIL TOWN OF CHARLESTOWN", "contest_number" : "228", "total_votes" : "16162", "votes_allowed" : "5", "candidates" : [
+    { "name" : "Thomas B. GENTZ", "party_code" : "IND", "votes" : "1959" }, 
+    { "name" : "Paula Ann ANDERSEN", "party_code" : "DEM", "votes" : "1825" }, 
+    { "name" : "Daniel J. SLATTERY", "party_code" : "IND", "votes" : "1819" }, 
+    { "name" : "George C. TREMBLAY", "party_code" : "IND", "votes" : "1686" }, 
+    { "name" : "Lisa A. DiBELLO", "party_code" : "IND", "votes" : "1669" }, 
+    { "name" : "Ronald J. AREGLADO", "party_code" : "IND", "votes" : "1599" }, 
+    { "name" : "Timothy E. QUILLEN", "party_code" : "DEM", "votes" : "1474" }, 
+    { "name" : "Thomas M. FERRIO", "party_code" : "DEM", "votes" : "1355" }, 
+    { "name" : "Gregory J. AVEDISIAN", "party_code" : "IND", "votes" : "1247" }, 
+    { "name" : "John C. DONOGHUE", "party_code" : "IND", "votes" : "855" }, 
+    { "name" : "James M. MAGEAU", "party_code" : "IND", "votes" : "655" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "19" } ] },
+  { "name" : "CHARIHO SCHOOL COMMITTEE TOWN OF CHARLESTOWN", "contest_number" : "229", "total_votes" : "2754", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Stephen M. HUZYK", "party_code" : "IND", "votes" : "2718" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "36" } ] },
+  { "name" : "NON-PARTISAN PLANNING COMMISSION TOWN OF CHARLESTOWN", "contest_number" : "230", "total_votes" : "13944", "votes_allowed" : "5", "candidates" : [
+    { "name" : "Ruth L. PLATNER", "party_code" : "NON", "votes" : "1790" }, 
+    { "name" : "Jan V. KNOST", "party_code" : "NON", "votes" : "1686" }, 
+    { "name" : "Constance D. VADNAIS-BAKER", "party_code" : "NON", "votes" : "1603" }, 
+    { "name" : "Gordon L. FOER", "party_code" : "NON", "votes" : "1510" }, 
+    { "name" : "Brandon Thomas CLEARY", "party_code" : "NON", "votes" : "1494" }, 
+    { "name" : "Peter D. HERSTEIN", "party_code" : "NON", "votes" : "1453" }, 
+    { "name" : "Frank D. GLISTA", "party_code" : "NON", "votes" : "1363" }, 
+    { "name" : "Melina LODGE", "party_code" : "NON", "votes" : "1311" }, 
+    { "name" : "Michael Eugene BRETON", "party_code" : "NON", "votes" : "866" }, 
+    { "name" : "Joseph S. DOLOCK", "party_code" : "NON", "votes" : "838" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "30" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "3969", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "2108" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "1861" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "3951", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "2019" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "1932" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "3918", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "2410" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "1508" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "3911", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "3044" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "867" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "3895", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "2735" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "1160" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "3916", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "2780" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "1136" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "3917", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "2204" }, 
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "1713" } ] },
+  { "name" : "QUESTION 8 - TOWN OF CHARLESTOWN", "contest_number" : "721", "total_votes" : "3837", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "3287" }, 
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "550" } ] },
+  { "name" : "QUESTION 9 - TOWN OF CHARLESTOWN", "contest_number" : "722", "total_votes" : "3725", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 APPROVE", "party_code" : "NON", "votes" : "2815" }, 
+    { "name" : "Question 9 REJECT", "party_code" : "NON", "votes" : "910" } ] },
+  { "name" : "QUESTION 10 - TOWN OF CHARLESTOWN", "contest_number" : "723", "total_votes" : "3648", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 10 APPROVE", "party_code" : "NON", "votes" : "2909" }, 
+    { "name" : "Question 10 REJECT", "party_code" : "NON", "votes" : "739" } ] },
+  { "name" : "QUESTION 11 - TOWN OF CHARLESTOWN", "contest_number" : "724", "total_votes" : "3643", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 11 APPROVE", "party_code" : "NON", "votes" : "2722" }, 
+    { "name" : "Question 11 REJECT", "party_code" : "NON", "votes" : "921" }
+  ]}
+]}

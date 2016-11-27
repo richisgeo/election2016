@@ -1,0 +1,85 @@
+{ "election_name" : "General Election", "election_date" : "November 6, 2012", "last_updated" : "November 19, 2012 11:20 AM", "precinct_count" : "6", "precincts_reporting" : "6", "contests" : [
+  { "name" : "PRESIDENTIAL ELECTORS FOR:", "contest_number" : "101", "total_votes" : "3162", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Mitt ROMNEY", "party_code" : "REP", "votes" : "1590" }, 
+    { "name" : "Barack OBAMA", "party_code" : "DEM", "votes" : "1503" }, 
+    { "name" : "Gary JOHNSON", "party_code" : "Lib", "votes" : "35" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "11" }, 
+    { "name" : "Jill STEIN", "party_code" : "GRN", "votes" : "10" }, 
+    { "name" : "Virgil GOODE", "party_code" : "Con", "votes" : "8" }, 
+    { "name" : "Ross C. &quot;Rocky&quot; ANDERSON", "party_code" : "Jus", "votes" : "4" }, 
+    { "name" : "Peta LINDSAY", "party_code" : "SL", "votes" : "1" } ] },
+  { "name" : "SENATOR IN CONGRESS", "contest_number" : "102", "total_votes" : "3008", "votes_allowed" : "1", "candidates" : [
+    { "name" : "B. Barrett HINCKLEY, III", "party_code" : "REP", "votes" : "1542" }, 
+    { "name" : "Sheldon WHITEHOUSE", "party_code" : "DEM", "votes" : "1460" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "6" } ] },
+  { "name" : "REPRESENTATIVE IN CONGRESS DISTRICT 2", "contest_number" : "104", "total_votes" : "3047", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Michael G. RILEY", "party_code" : "REP", "votes" : "1433" }, 
+    { "name" : "James R. LANGEVIN", "party_code" : "DEM", "votes" : "1376" }, 
+    { "name" : "Abel G. COLLINS", "party_code" : "IND", "votes" : "237" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 21", "contest_number" : "125", "total_votes" : "959", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Nicholas D. KETTLE", "party_code" : "REP", "votes" : "547" }, 
+    { "name" : "Scott M. POLLARD", "party_code" : "DEM", "votes" : "411" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 33", "contest_number" : "137", "total_votes" : "1362", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Leonidas P. RAPTAKIS", "party_code" : "DEM", "votes" : "825" }, 
+    { "name" : "Glenford J. SHIBLEY", "party_code" : "REP", "votes" : "534" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "3" } ] },
+  { "name" : "SENATOR IN GENERAL ASSEMBLY DISTRICT 34", "contest_number" : "138", "total_votes" : "659", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Francis T. MAHER, JR.", "party_code" : "REP", "votes" : "376" }, 
+    { "name" : "Catherine COOL RUMSEY", "party_code" : "DEM", "votes" : "282" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "1" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 29", "contest_number" : "171", "total_votes" : "2410", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Lisa P. TOMASSO", "party_code" : "DEM", "votes" : "1279" }, 
+    { "name" : "Keith W. ANDERSON", "party_code" : "REP", "votes" : "1127" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "4" } ] },
+  { "name" : "REPRESENTATIVE IN GENERAL ASSEMBLY DISTRICT 30", "contest_number" : "172", "total_votes" : "563", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Antonio GIARRUSSO", "party_code" : "REP", "votes" : "302" }, 
+    { "name" : "Mark SCHWAGER", "party_code" : "DEM", "votes" : "181" }, 
+    { "name" : "Kevin J. McDONOUGH", "party_code" : "IND", "votes" : "80" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "0" } ] },
+  { "name" : "TOWN COUNCIL TOWN OF WEST GREENWICH", "contest_number" : "414", "total_votes" : "9525", "votes_allowed" : "5", "candidates" : [
+    { "name" : "Mark D. TOURGEE", "party_code" : "REP", "votes" : "1992" }, 
+    { "name" : "Robert John ANDREWS", "party_code" : "REP", "votes" : "1925" }, 
+    { "name" : "Susan G. WOLOOHOJIAN", "party_code" : "REP", "votes" : "1891" }, 
+    { "name" : "Gregory C. COUTCHER", "party_code" : "REP", "votes" : "1849" }, 
+    { "name" : "Thomas E. MULCAHEY", "party_code" : "REP", "votes" : "1783" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "85" } ] },
+  { "name" : "SCHOOL COMMITTEE TOWN OF WEST GREENWICH", "contest_number" : "415", "total_votes" : "2259", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Lee Kevin KISSINGER", "party_code" : "REP", "votes" : "2233" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "26" } ] },
+  { "name" : "TOWN MODERATOR TOWN OF WEST GREENWICH", "contest_number" : "416", "total_votes" : "2280", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Elaine M. ECCLESTON", "party_code" : "REP", "votes" : "2261" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "19" } ] },
+  { "name" : "TOWN SERGEANT TOWN OF WEST GREENWICH", "contest_number" : "417", "total_votes" : "2275", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Frank J. VOLLUCCI", "party_code" : "REP", "votes" : "2260" }, 
+    { "name" : "WRITE-IN", "party_code" : "NON", "votes" : "15" } ] },
+  { "name" : "QUESTION 1 - TWIN RIVER CASINO", "contest_number" : "501", "total_votes" : "2972", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 1 APPROVE", "party_code" : "NON", "votes" : "1963" }, 
+    { "name" : "Question 1 REJECT", "party_code" : "NON", "votes" : "1009" } ] },
+  { "name" : "QUESTION 2 - NEWPORT GRAND", "contest_number" : "502", "total_votes" : "2946", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 2 APPROVE", "party_code" : "NON", "votes" : "1842" }, 
+    { "name" : "Question 2 REJECT", "party_code" : "NON", "votes" : "1104" } ] },
+  { "name" : "QUESTION 3 - HIGHER EDUCATION FACILITIES", "contest_number" : "503", "total_votes" : "2897", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 3 APPROVE", "party_code" : "NON", "votes" : "1599" }, 
+    { "name" : "Question 3 REJECT", "party_code" : "NON", "votes" : "1298" } ] },
+  { "name" : "QUESTION 4 - VETERANS&#39; HOME BONDS", "contest_number" : "504", "total_votes" : "2903", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 4 APPROVE", "party_code" : "NON", "votes" : "2150" }, 
+    { "name" : "Question 4 REJECT", "party_code" : "NON", "votes" : "753" } ] },
+  { "name" : "QUESTION 5 - CLEAN WATER BONDS", "contest_number" : "505", "total_votes" : "2868", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 5 APPROVE", "party_code" : "NON", "votes" : "1785" }, 
+    { "name" : "Question 5 REJECT", "party_code" : "NON", "votes" : "1083" } ] },
+  { "name" : "QUESTION 6 - ENVIRONMENTAL MANAGEMENT BONDS", "contest_number" : "506", "total_votes" : "2892", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 6 APPROVE", "party_code" : "NON", "votes" : "1843" }, 
+    { "name" : "Question 6 REJECT", "party_code" : "NON", "votes" : "1049" } ] },
+  { "name" : "QUESTION 7 - CAPITAL IMPROVEMENT PROJECTS", "contest_number" : "507", "total_votes" : "2854", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 7 REJECT", "party_code" : "NON", "votes" : "1478" }, 
+    { "name" : "Question 7 APPROVE", "party_code" : "NON", "votes" : "1376" } ] },
+  { "name" : "QUESTION 8 - TOWN OF WEST GREENWICH", "contest_number" : "711", "total_votes" : "2844", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 8 REJECT", "party_code" : "NON", "votes" : "1469" }, 
+    { "name" : "Question 8 APPROVE", "party_code" : "NON", "votes" : "1375" } ] },
+  { "name" : "QUESTION 9 - TOWN OF WEST GREENWICH", "contest_number" : "712", "total_votes" : "2853", "votes_allowed" : "1", "candidates" : [
+    { "name" : "Question 9 REJECT", "party_code" : "NON", "votes" : "1943" }, 
+    { "name" : "Question 9 APPROVE", "party_code" : "NON", "votes" : "910" }
+  ]}
+]}
