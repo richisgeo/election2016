@@ -1,7 +1,12 @@
 library(reshape2)
 
+
+pres.elect16.results_clean <- na.omit(pres.elect16.results) 
+pres.elect16.results_reshape <- dcast(pres.elect16.results_clean, fips ~ cand , value.var = "votes")
+
+#Maryland
 md <- pres.elect16.results[pres.elect16.results$st == 'MD',]
-md_clean <- na.omit(md) 
+pres.elect16.results_clean <- na.omit(pres.elect16.results) 
 md_clean
 names(md_clean)
 md2 <- dcast(md_clean,fips ~  cand, value.var="votes")
