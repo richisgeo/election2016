@@ -1,0 +1,17 @@
+{
+    "contents" : "library(reshape2)\n\nmd <- pres.elect16.results[pres.elect16.results$st == 'MD',]\nmd_clean <- na.omit(md) \nmd_clean\nnames(md_clean)\nmd2 <- dcast(md_clean,fips ~  cand, value.var=\"votes\")\nnames(md2)\nmd2[\"v_diff\"] <- md2$`Hillary Clinton` - md2$`Donald Trump`\nwrite.csv(md2, file = \"md_elec.csv\")\n",
+    "created" : 1480265695997.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2237722380",
+    "id" : "E59C249B",
+    "lastKnownWriteTime" : 1480266512,
+    "path" : "~/RCode/election2016/election_difference.R",
+    "project_path" : "election_difference.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

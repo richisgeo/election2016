@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1480265920577.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FD37530A",
+    "lastKnownWriteTime" : 31244048835477601,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "zib8eggryv",
+        "caption" : "md2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=md2&cache_key=zib8eggryv",
+        "displayedObservations" : 24,
+        "environment" : "",
+        "object" : "md2",
+        "totalObservations" : 24,
+        "variables" : 6
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
