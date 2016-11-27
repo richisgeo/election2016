@@ -10,7 +10,8 @@ wi_2012_reshape <- dcast(wi_2012, fips ~ candidate , value.var = "votes")
 wi_2012_reshape$total2012 <- rowSums(wi_2012_reshape[2:11])
 wi_2012_reshape$third2012 <- rowSums(wi_2012_reshape[3:6,8:11])
 #:3-6 , 8 -11
-
+#df[ -c(1, 3:6, 12) ]
+wi_2012_reshape <- wi_2012_reshape[ -c(3:6,8:11)]
 #Maryland
 wi_2016 <- pres.elect16.results[pres.elect16.results$st == 'WI',]
 wi_2016_clean <- na.omit(wi_2016) 
@@ -18,8 +19,15 @@ wi_2016_clean <- na.omit(wi_2016)
 wi_2016_reshape <- dcast(wi_2016_clean,fips ~  cand , value.var="votes")
 wi_2016_reshape$total2016 <-rowSums(wi_2016_reshape[2:8])
 wi_2016_reshape$third2016 <- rowSums(wi_2016_reshape[,c (2, 4,6,7,8)])
-
+wi_2016_reshape <- wi_2016_reshape[ -c(2,4,6,7,8)]
 ###new
+
+wi <- merge(wi_2012_reshape, wi_2016_reshape , by = "fips")
+
+wi$rDiff <- wi$`Donald Trump` - wi$`MITT ROMNEY/PAUL RYAN`
+wi$dDiff <- wi$`Hillary Clinton` - wi$`BARACK OBAMA/JOE BIDEN`
+
+
 
 elec_new <- pres.elect16.results_reshape[, c('fips' , 'Hillary Clinton', 'Donald Trump' , 'Jill Stein', 'Gary Johnson')]
 elec_new["Third"] <- elec_new$`Jill Stein` + elec_new$`Gary Johnson`

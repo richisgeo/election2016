@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1480287342310.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F2C507F7",
+    "lastKnownWriteTime" : 1480287081,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6lgf0ra2ft",
+        "caption" : "wi",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wi&cache_key=6lgf0ra2ft",
+        "displayedObservations" : 72,
+        "environment" : "",
+        "object" : "wi",
+        "totalObservations" : 72,
+        "variables" : 10
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
